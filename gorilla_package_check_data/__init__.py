@@ -1,3 +1,3 @@
 
-from .check_data import raw_monitoring_data_checking,checking_data_integrity,data_downloading_psql,read_csv,create_engine,connect_to_db,retrieve_data_psql
+from .monitoring_functions import raw_monitoring_data_checking,checking_data_integrity,data_downloading_psql,read_csv,create_engine,connect_to_db,retrieve_data_psql
 from .import_data_into_db import another_function

@@ -6,14 +6,6 @@ import pandas as pd
 import numpy as np
 import os
 
-#source_raw = "C:/Users/vainq/CheckandUpload_Gorilla_data/data/raw_data/monitoring"# data source where csv file containing gorilla monitoring raw data is stored
-#source_checked = "C:/Users/vainq/CheckandUpload_Gorilla_data/data/checked_data/monitoring"# data source where csv file containing gorilla monitoring checked data is stored
-#database="dianfossey"
-#user='vainqueur'
-#password='123'
-#host='127.0.0.1'
-#port= '5432'
-#database= 'dianfossey
 
 def create_engine(database,user,password,host,port):
     try:
@@ -55,7 +47,7 @@ def connect_to_db(database,user,password,host,port):
         return None
 
 
-def read_csv(source_raw):
+def mon_read_csv(source_raw):
     # Open the file and read the first line to detect the delimiter
     with open(source_raw+'/data_fail_surveillance.csv', "r") as csvfile:
         # Read the file's content
@@ -100,7 +92,7 @@ def raw_monitoring_data_checking(data):
     
     return data
         
-def retrieve_data_psql(database,user,password,host,port):
+def mon_retrieve_data_psql(database,user,password,host,port):
     
     '''This function connect python to psql and retrieve data from psql'''
     #establishing the connection
@@ -165,7 +157,7 @@ def retrieve_data_psql(database,user,password,host,port):
         return df_espece, df_signe, df_nombre, df_equipe, df_age, df_chef_equipe
 
 
-def checking_data_integrity(source_raw,source_checked,df_espece, df_signe, df_nombre, df_equipe, df_age, df_chef_equipe,data):
+def mon_checking_data_integrity(source_raw,source_checked,df_espece, df_signe, df_nombre, df_equipe, df_age, df_chef_equipe,data):
     ''' This function check data integrity before downloading the data into psql.'''
     
     data_success = data.loc[(data['observation'].isin(df_espece['espece'])) & (data['signe'].isin(df_signe['signe'])) &
@@ -210,7 +202,7 @@ def checking_data_integrity(source_raw,source_checked,df_espece, df_signe, df_no
     #return message
     
 
-def data_downloading_psql(source_checked, user,password,host,port,database):
+def mon_data_downloading_psql(source_checked, user,password,host,port,database):
     
     engine = create_engine(database,user,password,host,port)
 

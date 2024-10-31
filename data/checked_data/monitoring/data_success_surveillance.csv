@@ -1,0 +1,754 @@
+wpt,equipe,observation,signe,age_jours,nombre,zone_surv,bande,easting,northing,altitude,date_surveillance,heure_surveillance,chef_equipe,pisteurs,toponyme,journaliers,braconniers,commentaire
+452,Nkuba,Riviere,RG,0,1,35,M,568479,9836333,618 m,2024-09-07,13:21,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Olate
+454,Nkuba,Riviere,RD,0,1,35,M,568181,9836138,620 m,2024-09-09,13:35,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Misulu
+455,Nkuba,Riviere,Traverse,0,1,35,M,565161,9835921,713 m,2024-09-10,15:19,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+456,Nkuba,Chimpanze,Nid,1,3,35,M,564720,9836514,768 m,2024-09-11,16:26,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+459,Nkuba,Riviere,Traverse,0,1,35,M,565918,9836928,647 m,2024-09-14,8:37,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+461,Nkuba,Gorille,Trace,2,1,35,M,566459,9836872,649 m,2024-09-16,9:05,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+464,Nkuba,Riviere,Traverse,0,1,35,M,567359,9836656,633 m,2024-09-19,9:50,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+465,Nkuba,Pangolin geant,Trace,0,1,35,M,567376,9836653,632 m,2024-09-20,9:50,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+466,Nkuba,Riviere,Traverse,0,1,35,M,568015,9836908,630 m,2024-09-21,10:16,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+467,Nkuba,Riviere,Traverse,0,1,35,M,568041,9836903,630 m,2024-09-22,10:18,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+468,Nkuba,Riviere,RG,0,1,35,M,568201,9836999,629 m,2024-09-23,10:29,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Olate
+476,Nkuba,Riviere,Traverse,0,1,35,M,567427,9837429,635 m,2024-10-01,14:11,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+478,Nkuba,Chimpanze,Trace,0,1,35,M,566813,9837296,689 m,2024-10-03,14:40,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+479,Nkuba,Riviere,Source,A,1,35,M,566571,9837483,676 m,2024-10-04,14:53,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+483,Nkuba,Riviere,Traverse,0,1,35,M,566147,9837390,654 m,2024-10-08,15:32,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+485,Nkuba,Riviere,Traverse,0,1,35,M,565802,9837379,655 m,2024-10-10,15:52,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+486,Nkuba,Gorille,Trace,3,1,35,M,564454,9837004,777 m,2024-10-11,9:03,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+487,Nkuba,Chimpanze,Nid,1,2,35,M,564505,9837557,775 m,2024-10-12,9:16,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+489,Nkuba,Pangolin geant,Trace,1,1,35,M,564253,9837824,779 m,2024-10-14,9:25,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+490,Nkuba,Riviere,Traverse,0,1,35,M,563943,9838045,708 m,2024-10-15,9:41,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+491,Nkuba,Riviere,Traverse,0,1,35,M,563801,9838731,654 m,2024-10-16,10:03,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+492,Nkuba,Chimpanze,Cri,0,1,35,M,563882,9838855,669 m,2024-10-17,10:10,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+493,Nkuba,Riviere,Traverse,0,1,35,M,563952,9839031,648 m,2024-10-18,10:16,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+494,Nkuba,Riviere,Traverse,0,1,35,M,564025,9839514,646 m,2024-10-19,10:34,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+495,Nkuba,Riviere,Traverse,0,1,35,M,563981,9839564,646 m,2024-10-20,10:39,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Atalala
+497,Nkuba,Chimpanze,Crotte,2,1,35,M,563721,9839765,681 m,2024-10-22,10:47,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+498,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,563872,9840388,679 m,2024-10-23,11:00,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+499,Nkuba,Station,Tente,0,2,35,M,564170,9840887,638 m,2024-10-24,11:17,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Non contruit
+500,Nkuba,Riviere,Traverse,0,1,35,M,564607,9841186,646 m,2024-10-25,12:24,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+503,Nkuba,Riviere,Traverse,0,1,35,M,565008,9841302,642 m,2024-10-28,12:33,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+504,Nkuba,Riviere,Traverse,0,1,35,M,565374,9841206,641 m,2024-10-29,12:42,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Atalala
+505,Nkuba,Riviere,Traverse,0,1,35,M,565547,9840967,640 m,2024-10-30,12:54,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+506,Nkuba,Chimpanze,Crotte,1,1,35,M,565715,9840783,641 m,2024-10-31,13:11,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+507,Nkuba,Riviere,Traverse,0,1,35,M,566177,9840122,642 m,2024-11-01,13:42,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+510,Nkuba,Riviere,Traverse,0,1,35,M,566074,9838433,706 m,2024-11-04,14:44,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+512,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,565398,9837787,754 m,2024-11-06,15:24,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+513,Nkuba,Cercopithecus hamlyni,Cri,0,1,35,M,564480,9836914,783 m,2024-11-07,8:54,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+518,Nkuba,Riviere,Traverse,0,1,35,M,563086,9837324,766 m,2024-11-12,10:08,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Omate
+522,Nkuba,Chimpanze,Cri,0,1,35,M,561647,9836729,742 m,2024-11-16,11:14,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+524,Nkuba,Riviere,Traverse,0,1,35,M,561196,9836522,664 m,2024-11-18,11:37,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Omate
+526,Nkuba,Gorille,Trace,4,1,35,M,561454,9836292,665 m,2024-11-20,11:58,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+528,Nkuba,Chimpanze,Trace,1,1,35,M,562423,9835990,749 m,2024-11-22,12:33,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+529,Nkuba,Gorille,Crotte,2,1,35,M,562789,9835820,769 m,2024-11-23,12:48,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+530,Nkuba,Gorille,Trace,6,1,35,M,563197,9835624,749 m,2024-11-24,13:08,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+535,Nkuba,Riviere,Traverse,0,1,35,M,564653,9836673,749 m,2024-11-29,8:26,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+537,Nkuba,Riviere,Traverse,0,1,35,M,564368,9836060,735 m,2024-12-01,9:05,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+538,Nkuba,Riviere,Traverse,0,1,35,M,564221,9835558,734 m,2024-12-02,9:39,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+541,Nkuba,Riviere,Traverse,0,1,35,M,563807,9835178,734 m,2024-12-05,10:12,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+546,Nkuba,Riviere,Traverse,0,1,35,M,563283,9834771,748 m,2024-12-10,11:35,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Misulu
+550,Nkuba,Riviere,Traverse,0,1,35,M,563647,9834352,745 m,2024-12-14,12:03,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+554,Nkuba,Riviere,Traverse,0,1,35,M,564242,9834305,749 m,2024-12-18,12:49,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+555,Nkuba,Riviere,Traverse,0,1,35,M,564389,9834581,748 m,2024-12-19,13:03,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+557,Nkuba,Riviere,Traverse,0,1,35,M,564320,9835249,740 m,2024-12-21,13:27,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Misulu
+561,Nkuba,Riviere,Traverse,0,1,35,M,565156,9836819,697 m,2024-12-25,14:52,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+563,Nkuba,Riviere,Traverse,0,1,35,M,565214,9836805,688 m,2024-12-27,8:58,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+564,Nkuba,Chimpanze,Nid,2,3,35,M,565183,9836471,766 m,2024-12-28,9:29,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+565,Nkuba,Riviere,Traverse,0,1,35,M,565295,9836016,729 m,2024-12-29,9:50,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+568,Nkuba,Riviere,Traverse,0,1,35,M,565290,9835758,726 m,2025-01-01,10:08,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Misulu
+569,Nkuba,Chimpanze,Nid,1,4,35,M,565287,9835396,774 m,2025-01-02,10:32,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,
+571,Nkuba,Riviere,Traverse,0,1,35,M,565639,9834882,730 m,2025-01-04,11:05,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+575,Nkuba,Riviere,Traverse,0,1,35,M,566406,9835730,645 m,2025-01-08,11:52,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Misulu
+577,Nkuba,Mine,Bivouac,,0,35,M,568669,9836758,637 m,2025-01-10,13:05,P041,"Aluta Yakimu, Victor Mukwaba Alain",,Kinkole,,Inconnu
+578,Nkuba,Riviere,Traverse,0,1,35,M,568744,9838629,633 m,2025-01-11,14:08,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+580,Nkuba,Riviere,Traverse,0,1,35,M,573188,9847012,620 m,2025-01-13,8:07,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Inconnu
+581,Nkuba,Riviere,Traverse,0,1,35,M,571830,9849317,617 m,2025-01-14,9:43,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Angisi
+582,Nkuba,Riviere,Chute,A,1,35,M,570860,9851659,611 m,2025-01-15,11:17,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Bokonyela
+585,Nkuba,Mine,Bivouac,,1,35,M,569723,9855241,627 m,2025-01-18,13:38,P041,"Aluta Yakimu, Victor Mukwaba Alain",Bigbutu,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Mine
+586,Nkuba,Mine,Piste,A,1,35,M,569701,9856213,631 m,2025-01-19,13:59,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piste okengo
+587,Nkuba,Riviere,Traverse,0,1,35,M,569930,9857119,605 m,2025-01-20,14:20,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Monga
+1259,Obaye,Position,Position,0,0,35,M,579391,9849761,616 m,2025-01-21,11:34,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1260,Obaye,Riviere,Traverse,0,1,35,M,579326,9849581,608 m,2025-01-22,11:39,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Obaye
+1264,Obaye,Riviere,Traverse,0,1,35,M,574493,9844984,632 m,2025-01-26,15:13,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Batoko
+1267,Obaye,Leopard,Crotte,1,1,35,M,573019,9843465,634 m,2025-01-29,10:26,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Leopard
+1268,Obaye,Riviere,Traverse,0,1,35,M,572116,9842999,630 m,2025-01-30,10:46,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Ikobolo
+1269,Obaye,Cercopithecus hamlyni,Vu,0,7,35,M,572030,9842694,633 m,2025-01-31,11:30,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1271,Obaye,Riviere,Traverse,0,1,35,M,570715,9840292,636 m,2025-02-02,12:23,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Amadangada
+1272,Obaye,Mine,Bivouac,,0,35,M,570654,9840287,642 m,2025-02-03,12:33,P049,"Kampundju Karopi, Ngongo Dominique",Intervation,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Mine
+1276,Obaye,Riviere,Traverse,0,1,35,M,568744,9838632,633 m,2025-02-07,15:51,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Madami
+1277,Obaye,Cercopithecus mitis,Cri,0,1,35,M,568366,9837432,625 m,2025-02-08,16:32,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1278,Obaye,Position,Position,0,0,35,M,568686,9836830,621 m,2025-02-09,16:53,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Position
+1279,Obaye,Mine,Bivouac,,0,35,M,568674,9836744,622 m,2025-02-10,17:11,P049,"Kampundju Karopi, Ngongo Dominique",Kinkole,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Mine
+1280,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,568609,9836415,623 m,2025-02-11,17:24,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1281,Obaye,Peche,Bivouac,,2,35,M,568511,9836260,621 m,2025-02-12,17:31,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Peche
+1282,Obaye,Gorille,Cri,0,1,35,M,568668,9836226,622 m,2025-02-13,17:41,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Gorille
+1293,Obaye,Position,Position,0,0,35,M,565000,9837000,631 m,2025-02-14,17:25,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Position
+1309,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,568558,9837152,632 m,2025-02-15,9:28,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1312,Obaye,Riviere,Traverse,0,1,35,M,568758,9838641,637 m,2025-02-18,10:12,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Madami
+1318,Obaye,Mine,Bivouac,AB,3,35,M,567842,9841214,619 m,2025-02-24,12:16,P049,"Kampundju Karopi, Ngongo Dominique",Ebogoguabonge,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Mine
+1324,Obaye,Cercopithecus hamlyni,Vu,0,3,35,M,569603,9838818,635 m,2025-03-02,15:16,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1327,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,568833,9836525,637 m,2025-03-04,8:36,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1329,Obaye,Riviere,Traverse,0,1,35,M,568849,9836032,624 m,2025-03-06,9:02,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Ketuwe
+1330,Obaye,Cercopithecus hamlyni,Vu,0,2,35,M,568992,9835436,627 m,2025-03-07,9:17,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1331,Obaye,Riviere,RG,0,1,35,M,569004,9834603,625 m,2025-03-08,9:57,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Olate
+1333,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,569042,9833787,644 m,2025-03-10,10:36,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1334,Obaye,Riviere,RD,0,1,35,M,569453,9833690,641 m,2025-03-11,11:28,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Olate
+1335,Obaye,Position,Tente,0,2,35,M,569540,9833737,643 m,2025-03-12,11:33,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Position
+1336,Obaye,Riviere,Traverse,A,2,35,M,569531,9833712,639 m,2025-03-13,11:44,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Abakanyanga
+1337,Obaye,Riviere,Traverse,0,1,35,M,569985,9833699,634 m,2025-03-14,12:44,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Abakanyanga
+1339,Obaye,Riviere,Traverse,0,1,35,M,570776,9833290,638 m,2025-03-16,13:20,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Abakanyanga
+1343,Obaye,Chimpanze,Cri,0,1,35,M,569786,9834700,697 m,2025-03-20,14:52,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1345,Obaye,Chimpanze,Cri,0,1,35,M,569245,9835425,653 m,2025-03-22,15:39,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1346,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,569211,9836970,640 m,2025-03-23,9:14,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1351,Obaye,Chimpanze,Crotte,1,1,35,M,571500,9837235,802 m,2025-03-28,11:39,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1352,Obaye,Chimpanze,Trace,1,1,35,M,571871,9837303,787 m,2025-03-29,12:05,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1353,Obaye,Mine,Piste,A,1,35,M,572254,9837819,831 m,2025-03-30,13:04,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piste likoki
+1354,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,572049,9838265,782 m,2025-03-31,13:22,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1357,Obaye,Chasse,Bivouac,,2,35,M,571527,9839388,664 m,2025-04-03,14:55,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chasse
+1358,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,570987,9839232,676 m,2025-04-04,15:45,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1360,Obaye,Chimpanze,Cri,1,1,35,M,570423,9838258,708 m,2025-04-06,16:22,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1362,Obaye,Cercopithecus hamlyni,Vu,0,3,35,M,569283,9837020,629 m,2025-04-08,17:17,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1366,Obaye,Pangolin geant,Trace,1,1,35,M,568947,9836015,618 m,2025-04-11,8:16,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1367,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,569187,9835940,626 m,2025-04-12,8:36,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1370,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,570037,9835583,658 m,2025-04-15,9:28,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1371,Obaye,Riviere,Traverse,0,1,35,M,570178,9835570,647 m,2025-04-16,9:36,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Ketuwe
+1375,Obaye,Chimpanze,Cri,0,1,35,M,571558,9834692,656 m,2025-04-20,11:05,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1376,Obaye,Pangolin geant,Trace,1,1,35,M,571703,9834507,711 m,2025-04-21,11:20,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1381,Obaye,Riviere,Traverse,0,1,35,M,571989,9835146,654 m,2025-04-26,12:12,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Ketuwe
+1382,Obaye,Cercopithecus denti,Cri,0,1,35,M,571945,9835384,687 m,2025-04-27,12:26,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1384,Obaye,Chimpanze,Cri,0,1,35,M,572016,9835647,679 m,2025-04-29,12:56,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1385,Obaye,Chimpanze,Nid,2,6,35,M,571992,9835771,728 m,2025-04-30,13:13,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1386,Obaye,Cercopithecus mitis,Cri,0,1,35,M,572025,9836018,789 m,2025-05-01,13:28,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1387,Obaye,Cercopithecus denti,Cri,0,1,35,M,571981,9836473,853 m,2025-05-02,14:11,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1389,Obaye,Chimpanze,Trace,2,1,35,M,571300,9836521,754 m,2025-05-04,14:52,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1392,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,569791,9836684,650 m,2025-05-07,15:48,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1393,Obaye,Riviere,RG,0,1,35,M,568478,9836331,622 m,2025-05-08,9:00,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Olate
+1395,Obaye,Cercopithecus hamlyni,Cri,0,1,35,M,567534,9836366,632 m,2025-05-10,9:31,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1397,Obaye,Position,Position,0,1,35,M,566788,9836880,652 m,2025-05-12,9:57,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Transect de pisteur
+1401,Obaye,Riviere,Chute,A,1,35,M,566126,9835832,671 m,2025-05-16,13:08,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Misulu
+1402,Obaye,Riviere,Traverse,0,1,35,M,566233,9835683,652 m,2025-05-17,13:16,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Misulu
+1403,Obaye,Cercopithecus hamlyni,Vu,0,5,35,M,566754,9835951,639 m,2025-05-18,14:16,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1405,Obaye,Riviere,Traverse,0,1,35,M,567820,9836058,631 m,2025-05-20,14:40,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Misulu
+1406,Obaye,Riviere,Traverse,0,1,35,M,568293,9836138,624 m,2025-05-21,14:53,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Misulu
+1414,Obaye,Riviere,Traverse,0,1,35,M,568351,9837432,624 m,2025-05-22,10:34,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Innonde
+1415,Obaye,Riviere,RG,0,1,35,M,568258,9838126,631 m,2025-05-23,10:54,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Olate
+1418,Obaye,Riviere,RD,0,1,35,M,568459,9838605,622 m,2025-05-26,11:50,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Olate
+1424,Obaye,Position,Position,0,0,35,M,566856,9837943,664 m,2025-06-01,14:34,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1427,Obaye,Riviere,RD,0,1,35,M,568645,9836789,620 m,2025-06-04,16:09,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Olate
+1429,Obaye,Chimpanze,Trace,1,1,35,M,572033,9842742,652 m,2025-06-06,10:25,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Chimpanze
+1430,Obaye,Riviere,Traverse,0,1,35,M,574160,9844040,653 m,2025-06-07,11:15,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Ikobolo
+1431,Obaye,Riviere,Traverse,0,1,35,M,574280,9844313,665 m,2025-06-08,11:27,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Bangianafe
+1432,Obaye,Riviere,Traverse,0,1,35,M,574579,9844834,666 m,2025-06-09,11:40,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Batoko
+1433,Obaye,Position,Position,0,0,35,M,579944,9850135,643 m,2025-06-10,15:08,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Position
+1,Kasese,Riviere,Traverse,0,1,35,M,526336,9824978,606 m,2025-09-17,10:16,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Tchamena
+2,Kasese,Mine,Piste,A,1,35,M,526625,9825285,626 m,2025-09-18,12:21,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+3,Kasese,Mine,Bivouac,A,3,35,M,528892,9825682,627 m,2025-09-19,13:08,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",Kpooka,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+4,Kasese,Riviere,RD,0,1,35,M,528950,9825649,624 m,2025-09-20,13:09,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Ngbhoka
+5,Kasese,Riviere,RD,0,1,35,M,529258,9824836,619 m,2025-09-21,14:09,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+6,Kasese,Mine,Piste,A,1,35,M,530183,9824526,623 m,2025-09-22,14:28,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kpootchini
+7,Kasese,Mine,Bivouac,A,25,35,M,531936,9824457,639 m,2025-09-23,16:04,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",Kpootchini,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+8,Kasese,Mine,Trou,A,21,35,M,532254,9825131,634 m,2025-09-24,10:33,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",Kpoochini,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+9,Kasese,Riviere,RG,0,1,35,M,532594,9825583,630 m,2025-09-25,10:44,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Kamika
+10,Kasese,Position,Position,0,0,35,M,533098,9825947,641 m,2025-09-26,10:59,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Position
+12,Kasese,Riviere,RG,0,1,35,M,533240,9825966,636 m,2025-09-28,11:20,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+14,Kasese,Riviere,RD,0,1,35,M,533236,9825983,621 m,2025-09-30,8:32,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+15,Kasese,Riviere,RD,0,1,35,M,532622,9825591,619 m,2025-10-01,8:51,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Kamika
+16,Kasese,Mine,Trou,A,23,35,M,532127,9824925,619 m,2025-10-02,9:07,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",Kpoochini,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+17,Kasese,Mine,Champ,A,1,35,M,531953,9824692,631 m,2025-10-03,9:13,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+19,Kasese,Mine,Bivouac,A,25,35,M,531929,9824405,632 m,2025-10-05,9:20,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",KPOOCHINI,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+20,Kasese,Mine,Champ,A,1,35,M,531823,9824340,628 m,2025-10-06,9:29,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Champ de manioc
+24,Kasese,Riviere,RD,0,1,35,M,530509,9823503,618 m,2025-10-10,10:14,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Ona
+26,Kasese,Mine,Piste,A,1,35,M,530247,9823772,626 m,2025-10-12,10:24,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kwa ecthiene
+27,Kasese,Pangolin geant,Trace,0,1,35,M,530005,9824494,664 m,2025-10-13,10:49,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+30,Kasese,Riviere,Chute,A,1,35,M,530986,9824825,623 m,2025-10-16,11:14,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+31,Kasese,Riviere,RD,0,1,35,M,533241,9825967,631 m,2025-10-17,9:39,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+33,Kasese,Riviere,RG,0,1,35,M,532666,9825843,626 m,2025-10-19,10:17,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+36,Kasese,Cercopithecus hamlyni,Cri,0,1,35,M,531403,9825869,629 m,2025-10-22,11:11,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+37,Kasese,Riviere,RG,0,1,35,M,531374,9825886,625 m,2025-10-23,11:15,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Buobuo
+38,Kasese,Position,Position,AB,1,35,M,530588,9826040,646 m,2025-10-24,11:54,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Route 501
+45,Kasese,Mine,Piste,A,1,35,M,531345,9826730,658 m,2025-10-31,14:46,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste buobuo
+46,Kasese,Riviere,RD,0,1,35,M,531757,9826467,644 m,2025-11-01,15:03,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Buobuo
+47,Kasese,Riviere,Traverse,0,1,35,M,533358,9826279,612 m,2025-11-02,9:28,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Affluent dela riviere itoo
+48,Kasese,Colline,Sommet,0,1,35,M,533061,9826484,700 m,2025-11-03,9:47,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Inconu
+49,Kasese,Cercopithecus mitis,Cri,0,1,35,M,532827,9826736,725 m,2025-11-04,10:07,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+51,Kasese,Mine,Piste,A,1,35,M,532142,9827164,660 m,2025-11-06,11:01,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+52,Kasese,Gorille,Trace,2,1,35,M,531943,9827434,659 m,2025-11-07,11:14,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Gorille
+53,Kasese,Riviere,RG,0,1,35,M,531784,9827557,642 m,2025-11-08,11:27,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Buobuo
+56,Kasese,Cercopithecus mitis,Cri,0,1,35,M,530537,9828687,680 m,2025-11-11,12:50,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+57,Kasese,Colline,Sommet,0,1,35,M,530001,9829000,670 m,2025-11-12,13:27,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Inconu
+59,Kasese,Cercopithecus mitis,Vu,0,14,35,M,530867,9828879,679 m,2025-11-14,14:15,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+60,Kasese,Riviere,Traverse,0,1,35,M,531500,9828997,673 m,2025-11-15,14:51,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Affluent dela riviere buobuo
+63,Kasese,Riviere,RD,0,1,35,M,532115,9827996,647 m,2025-11-18,15:57,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Buobuo
+64,Kasese,Cercopithecus hamlyni,Cri,0,1,35,M,533438,9826507,618 m,2025-11-19,9:29,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+67,Kasese,Cercopithecus mitis,Cri,0,1,35,M,533385,9828207,688 m,2025-11-22,10:09,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+68,Kasese,Riviere,Traverse,0,1,35,M,533190,9828522,645 m,2025-11-23,10:29,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Affluent de la riviere buobuo
+69,Kasese,Riviere,RG,0,1,35,M,532997,9829003,650 m,2025-11-24,11:09,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Buobuo
+71,Kasese,Chevrotain aquatique,Crotte,0,1,35,M,533722,9828830,693 m,2025-11-26,12:09,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Chevrotain aquatique
+73,Kasese,Colline,Sommet,0,1,35,M,534501,9829003,793 m,2025-11-28,12:58,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Inconu
+75,Kasese,Reseau,Vodacom,A,1,35,M,534678,9828809,811 m,2025-11-30,13:16,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Reseau
+76,Kasese,Cercopithecus denti,Cri,0,1,35,M,534876,9827758,762 m,2025-12-01,14:00,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+77,Kasese,Riviere,RD,0,1,35,M,534482,9826878,650 m,2025-12-02,14:37,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Botondolo
+79,Kasese,Riviere,RD,0,1,35,M,533789,9826211,623 m,2025-12-04,9:16,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Botondolo
+80,Kasese,Riviere,RG,0,1,35,M,534476,9826868,624 m,2025-12-05,9:37,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Botondolo
+81,Kasese,Colline,Sommet,0,1,35,M,534524,9826925,635 m,2025-12-06,9:40,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Musangha
+87,Kasese,Cercopithecus mitis,Cri,0,1,35,M,535958,9828873,759 m,2025-12-12,11:42,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+88,Kasese,Riviere,Chute,A,1,35,M,535958,9827734,714 m,2025-12-13,12:39,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Botondolo
+89,Kasese,Riviere,Chute,A,1,35,M,535995,9827494,725 m,2025-12-14,13:02,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Botondolo
+90,Kasese,Cercopithecus hamlyni,Vu,0,8,35,M,535665,9826967,659 m,2025-12-15,13:26,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+93,Kasese,Riviere,RD,0,1,35,M,534675,9826144,640 m,2025-12-18,14:25,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+97,Kasese,Riviere,RD,0,1,35,M,533753,9826040,630 m,2025-12-22,10:12,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+101,Kasese,Riviere,RG,0,1,35,M,536000,9826008,643 m,2025-12-26,11:54,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+103,Kasese,Chimpanze,Trace,2,1,35,M,535891,9825557,650 m,2025-12-28,12:20,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Chimpanze
+105,Kasese,Mine,Piste,A,1,35,M,535805,9824881,761 m,2025-12-30,12:52,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kandjeli
+108,Kasese,Mine,Piste,A,1,35,M,534418,9824875,657 m,2026-01-02,14:00,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kpoochini
+109,Kasese,Cercopithecus hamlyni,Cri,0,1,35,M,533246,9825828,616 m,2026-01-03,9:04,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+111,Kasese,Mine,Piste,A,1,35,M,533859,9825095,638 m,2026-01-05,9:42,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kpoochini
+114,Kasese,Mine,Piste,A,1,35,M,534367,9824079,664 m,2026-01-08,10:41,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kandjeli
+115,Kasese,Mine,Trou,A,14,35,M,534583,9823929,650 m,2026-01-09,11:05,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+116,Kasese,Riviere,Traverse,0,1,35,M,534735,9823799,667 m,2026-01-10,11:15,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mitingho
+118,Kasese,Gorille,Trace,1,1,35,M,535013,9823554,702 m,2026-01-12,11:56,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Gorille
+119,Kasese,Mine,Piste,A,1,35,M,535375,9823240,812 m,2026-01-13,12:23,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste musendjelima
+120,Kasese,Riviere,RD,0,1,35,M,535601,9823059,765 m,2026-01-14,12:36,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Musendjelima
+121,Kasese,Riviere,Traverse,0,1,35,M,536002,9822996,792 m,2026-01-15,13:03,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Affluent de la riviere musendjelima
+123,Kasese,Cercopithecus mitis,Cri,0,1,35,M,535192,9822957,817 m,2026-01-17,13:38,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+124,Kasese,Riviere,Traverse,0,1,35,M,534501,9822998,704 m,2026-01-18,14:19,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Itoo
+129,Kasese,Mine,Trou,AB,7,35,M,533239,9824738,655 m,2026-01-23,16:18,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+130,Kasese,Mine,Piste,A,1,35,M,533257,9825004,652 m,2026-01-24,16:27,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kpoochini
+133,Kasese,Riviere,RD,0,1,35,M,538115,9832941,781 m,2026-01-27,10:50,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Ligbiti
+134,Kasese,Colline,Sommet,0,1,35,M,539702,9833852,794 m,2026-01-28,11:32,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Makundu
+135,Kasese,Riviere,RD,0,1,35,M,540932,9834475,658 m,2026-01-29,12:01,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Ligbiti
+137,Kasese,Riviere,RG,0,1,35,M,541831,9834930,641 m,2026-01-31,12:27,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Ososo
+138,Kasese,Riviere,Traverse,A,2,35,M,542154,9836145,637 m,2026-02-01,12:56,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Confluance
+139,Kasese,Riviere,Traverse,0,1,35,M,543077,9838042,627 m,2026-02-02,14:25,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Kabakandulu
+141,Kasese,Riviere,Traverse,0,1,35,M,544524,9840086,613 m,2026-02-04,15:56,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Ososo
+142,Kasese,Gorille,Trace,2,1,35,M,544640,9840364,612 m,2026-02-05,16:04,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Gorille
+144,Kasese,Mine,Piste,A,1,35,M,545856,9841392,606 m,2026-02-07,16:41,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kandimu
+145,Kasese,Mine,Bivouac,A,6,35,M,548363,9841722,595 m,2026-02-08,17:29,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",HEWA BORA,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Mine
+146,Kasese,Riviere,RD,0,1,35,M,548252,9842179,577 m,2026-02-09,6:33,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Obondje
+147,Kasese,Position,Position,0,0,35,M,548198,9842468,577 m,2026-02-10,6:39,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Plouie
+148,Kasese,Station,Tente,A,1,35,M,551778,9854494,605 m,2026-02-11,11:16,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Non construit Mbudju
+151,Kasese,Riviere,Beach,A,1,35,M,558022,9860227,591 m,2026-02-14,15:05,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Beach nkuba
+152,Kasese,Riviere,RG,0,1,35,M,558080,9860286,578 m,2026-02-15,15:38,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Lowa
+1,Kasese,Riviere,Traverse,0,1,35,M,526353,9824959,605 m,2026-02-16,9:34,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Tchamena
+2,Kasese,Mine,Piste,A,1,35,M,526628,9825294,633 m,2026-02-17,12:21,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+3,Kasese,Riviere,Traverse,0,1,35,M,526431,9826793,624 m,2026-02-18,12:57,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Tchamena
+5,Kasese,Riviere,Traverse,0,1,35,M,527084,9828237,616 m,2026-02-20,8:57,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Tchamena
+6,Kasese,Riviere,Traverse,0,1,35,M,527442,9828493,612 m,2026-02-21,9:07,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Riviere
+7,Kasese,Gorille,Trace,2,1,35,M,527698,9828697,622 m,2026-02-22,9:15,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+8,Kasese,Gorille,Trace,2,1,35,M,528394,9829030,612 m,2026-02-23,9:30,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+9,Kasese,Cercopithecus denti,Cri,0,1,35,M,528972,9829200,662 m,2026-02-24,10:02,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+10,Kasese,Gorille,Trace,3,1,35,M,529104,9829137,634 m,2026-02-25,10:19,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+11,Kasese,Riviere,Traverse,0,1,35,M,529593,9828849,662 m,2026-02-26,12:27,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+14,Kasese,Riviere,Traverse,0,1,35,M,529289,9827601,615 m,2026-03-01,9:03,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Nyakaokatena
+15,Kasese,Riviere,RD,0,1,35,M,529243,9827523,615 m,2026-03-02,9:11,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+16,Kasese,Riviere,RG,0,1,35,M,529214,9827378,614 m,2026-03-03,9:16,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+18,Kasese,Riviere,RD,0,1,35,M,529197,9826977,614 m,2026-03-05,9:27,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+19,Kasese,Riviere,RG,0,1,35,M,529192,9826849,613 m,2026-03-06,9:32,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+20,Kasese,Cercopithecus mitis,Cri,0,1,35,M,529144,9826552,613 m,2026-03-07,9:39,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+21,Kasese,Riviere,RD,0,1,35,M,529079,9826221,611 m,2026-03-08,9:47,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+24,Kasese,Cercopithecus hamlyni,Vu,0,3,35,M,527941,9825443,670 m,2026-03-11,10:59,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+26,Kasese,Gorille,Trace,2,1,35,M,527378,9825130,639 m,2026-03-13,11:35,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+27,Kasese,Gorille,Trace,2,1,35,M,527092,9824995,628 m,2026-03-14,11:53,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+28,Kasese,Gorille,Crotte,2,1,35,M,526999,9825000,644 m,2026-03-15,11:58,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+29,Kasese,Gorille,Nid,5,9,35,M,526969,9825056,630 m,2026-03-16,12:13,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+30,Kasese,Gorille,Trace,5,1,35,M,526984,9825186,639 m,2026-03-17,12:22,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+33,Kasese,Cercopithecus hamlyni,Cri,0,1,35,M,526893,9826004,648 m,2026-03-20,13:06,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+34,Kasese,Gorille,Crotte,5,1,35,M,526910,9826324,668 m,2026-03-21,13:19,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+36,Kasese,Gorille,Trace,5,1,35,M,527154,9826569,654 m,2026-03-23,13:40,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+37,Kasese,Riviere,RG,0,1,35,M,527191,9826620,636 m,2026-03-24,13:47,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+38,Kasese,Gorille,Trace,5,1,35,M,527569,9826936,651 m,2026-03-25,14:10,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+39,Kasese,Gorille,Trace,4,1,35,M,528964,9828497,643 m,2026-03-26,15:55,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+40,Kasese,Cercopithecus mitis,Cri,0,1,35,M,529450,9828885,636 m,2026-03-27,8:44,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+41,Kasese,Gorille,Trace,4,1,35,M,529260,9828803,658 m,2026-03-28,8:57,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+42,Kasese,Gorille,Nid,4,10,35,M,529213,9828773,645 m,2026-03-29,9:03,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+43,Kasese,Cercopithecus denti,Vu,0,9,35,M,528860,9828640,663 m,2026-03-30,9:35,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+44,Kasese,Gorille,Trace,4,1,35,M,528780,9828646,651 m,2026-03-31,9:41,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+45,Kasese,Gorille,Trace,4,1,35,M,528720,9828628,629 m,2026-04-01,9:46,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+47,Kasese,Gorille,Trace,3,1,35,M,527925,9828127,634 m,2026-04-03,10:49,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+48,Kasese,Riviere,RD,0,1,35,M,527842,9828081,631 m,2026-04-04,10:56,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Riviere
+50,Kasese,Gorille,Crotte,3,1,35,M,527269,9828050,645 m,2026-04-06,11:29,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+51,Kasese,Gorille,Nid,3,12,35,M,527235,9828051,644 m,2026-04-07,11:32,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+52,Kasese,Riviere,RG,0,1,35,M,527020,9827993,637 m,2026-04-08,11:48,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Tchamena
+53,Kasese,Riviere,RD,0,1,35,M,526999,9828001,639 m,2026-04-09,11:52,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Tchamena
+54,Kasese,Mine,Piste,A,1,35,M,526969,9828089,642 m,2026-04-10,12:03,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+55,Kasese,Gorille,Trace,3,1,35,M,526996,9828238,643 m,2026-04-11,12:19,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+56,Kasese,Riviere,RG,0,1,35,M,526986,9828327,641 m,2026-04-12,12:25,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Tchamena
+57,Kasese,Gorille,Trace,6,1,35,M,526993,9828372,642 m,2026-04-13,12:32,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+58,Kasese,Gorille,Trace,4,1,35,M,526994,9828401,647 m,2026-04-14,12:34,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+59,Kasese,Gorille,Nid,6,18,35,M,526971,9828480,646 m,2026-04-15,12:39,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+61,Kasese,Cercopithecus mitis,Vu,0,8,35,M,526966,9828737,645 m,2026-04-17,13:04,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+62,Kasese,Gorille,Crotte,6,1,35,M,526931,9828827,658 m,2026-04-18,13:11,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+64,Kasese,Chimpanze,Nid,5,7,35,M,526935,9829432,694 m,2026-04-20,13:37,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+71,Kasese,Mine,Piste,A,1,35,M,528642,9829265,638 m,2026-04-23,8:56,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+72,Kasese,Riviere,RD,0,1,35,M,528540,9829416,625 m,2026-04-24,9:16,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Amayole
+73,Kasese,Gorille,Trace,7,1,35,M,528272,9829587,630 m,2026-04-25,9:35,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+74,Kasese,Gorille,Nid,2,17,35,M,527932,9830054,673 m,2026-04-26,10:07,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+75,Kasese,Gorille,Trace,3,1,35,M,527847,9830119,676 m,2026-04-27,10:12,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+78,Kasese,Gorille,Vu,0,15,35,M,527295,9831030,870 m,2026-04-30,11:33,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+80,Kasese,Gorille,Crotte,2,1,35,M,527800,9830915,846 m,2026-05-02,11:58,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+81,Kasese,Gorille,Nid,6,21,35,M,527834,9830910,844 m,2026-05-03,12:04,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+83,Kasese,Riviere,RG,0,1,35,M,529241,9830258,669 m,2026-05-05,13:07,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Amayole
+84,Kasese,Cercopithecus mitis,Vu,0,4,35,M,529499,9829233,663 m,2026-05-06,8:20,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+87,Kasese,Gorille,Trace,3,1,35,M,530001,9830760,753 m,2026-05-09,9:55,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+88,Kasese,Gorille,Trace,3,1,35,M,530000,9830999,812 m,2026-05-10,10:10,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+90,Kasese,Riviere,RD,0,1,35,M,530678,9830913,743 m,2026-05-12,10:56,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+91,Kasese,Riviere,RD,0,1,35,M,530900,9830919,744 m,2026-05-13,11:14,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+92,Kasese,Gorille,Trace,5,1,35,M,530949,9830908,771 m,2026-05-14,11:20,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+94,Kasese,Chimpanze,Nid,7,9,35,M,531063,9830519,803 m,2026-05-16,12:16,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Chimpanze
+97,Kasese,Cercopithecus hamlyni,Cri,0,1,35,M,530184,9829356,658 m,2026-05-19,7:18,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+100,Kasese,Cercopithecus mitis,Cri,0,1,35,M,531096,9830041,741 m,2026-05-22,8:13,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+102,Kasese,Riviere,Traverse,0,1,35,M,532955,9830960,775 m,2026-05-24,10:41,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+105,Kasese,Riviere,Traverse,0,1,35,M,533093,9829748,753 m,2026-05-27,12:31,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+106,Kasese,Gorille,Nid,1,2,35,M,533022,9829669,781 m,2026-05-28,12:46,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+107,Kasese,Gorille,Trace,3,1,35,M,533001,9829502,766 m,2026-05-29,12:54,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+108,Kasese,Cercopithecus mitis,Vu,0,10,35,M,531462,9829440,736 m,2026-05-30,14:29,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+111,Kasese,Riviere,Traverse,0,1,35,M,532141,9828014,642 m,2026-06-02,9:47,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+112,Kasese,Cercopithecus denti,Cri,0,1,35,M,533001,9827998,685 m,2026-06-03,10:52,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+115,Kasese,Riviere,Traverse,0,1,35,M,531820,9827684,641 m,2026-06-06,14:04,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+116,Kasese,Cercopithecus hamlyni,Cri,0,1,35,M,529676,9828768,661 m,2026-06-07,6:40,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+118,Kasese,Gorille,Trace,3,1,35,M,530904,9827333,667 m,2026-06-09,8:24,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Gorille
+119,Kasese,Riviere,Traverse,0,1,35,M,531766,9826481,619 m,2026-06-10,9:29,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+120,Kasese,Mine,Piste,A,1,35,M,532244,9825911,628 m,2026-06-11,9:55,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+121,Kasese,Riviere,Traverse,0,1,35,M,532354,9825666,617 m,2026-06-12,10:04,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Itoo
+122,Kasese,Mine,Piste,A,1,35,M,532891,9825022,682 m,2026-06-13,10:49,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+123,Kasese,Mine,Trou,AB,1,35,M,533001,9824999,667 m,2026-06-14,10:53,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+124,Kasese,Mine,Bivouac,A,22,35,M,531938,9824459,642 m,2026-06-15,11:24,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+125,Kasese,Riviere,Traverse,0,1,35,M,531540,9824965,622 m,2026-06-16,11:58,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Itoo
+126,Kasese,Chimpanze,Cri,0,1,35,M,531503,9825001,623 m,2026-06-17,12:20,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Chimpanze
+127,Kasese,Chevrotain aquatique,Vu,0,1,35,M,531466,9825092,623 m,2026-06-18,12:41,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Chevrotain aquatique
+128,Kasese,Riviere,Traverse,0,1,35,M,531241,9825480,625 m,2026-06-19,13:01,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Buobuo
+131,Kasese,Cercopithecus denti,Cri,0,1,35,M,530001,9824997,621 m,2026-06-22,8:42,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+132,Kasese,Riviere,Traverse,0,1,35,M,529694,9824874,608 m,2026-06-23,8:57,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Itoo
+133,Kasese,Mine,Piste,A,1,35,M,529515,9824841,609 m,2026-06-24,9:18,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Mine
+134,Kasese,Riviere,Traverse,0,1,35,M,529265,9824835,605 m,2026-06-25,9:23,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Itoo
+135,Kasese,Riviere,Traverse,0,1,35,M,528810,9824991,608 m,2026-06-26,9:37,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Ngooka
+136,Kasese,Cercopithecus mitis,Vu,0,8,35,M,528501,9825002,617 m,2026-06-27,9:49,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+133,Nkuba,Chimpanze,Trace,1,1,35,M,557211,9860428,597 m,2026-06-28,9:55,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Chimpanze
+134,Nkuba,Riviere,Traverse,0,1,35,M,555586,9860543,579 m,2026-06-29,10:34,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Kaendamaso
+135,Nkuba,Position,Position,0,0,35,M,555002,9860475,585 m,2026-06-30,10:48,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Position
+136,Nkuba,Position,Tente,0,2,35,M,554864,9860468,580 m,2026-07-01,10:52,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Non construit / Nessa
+141,Nkuba,Cercopithecus hamlyni,Vu,0,2,35,M,551003,9862864,603 m,2026-07-06,12:26,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+148,Nkuba,Chevrotain aquatique,Trace,0,1,35,M,550795,9860333,587 m,2026-07-13,9:46,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Chevrotain aquatique
+150,Nkuba,Position,Tente,0,3,35,M,550275,9859054,577 m,2026-07-15,10:39,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Non construit / Kamiba
+151,Nkuba,Riviere,Observe,A,1,35,M,551251,9860354,587 m,2026-07-16,12:05,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Kataa
+156,Nkuba,Cercopithecus hamlyni,Vu,0,3,35,M,551409,9861316,606 m,2026-07-21,14:36,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+163,Nkuba,Chimpanze,Trace,1,1,35,M,550357,9861693,589 m,2026-07-28,9:33,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Chimpanze
+164,Nkuba,Chimpanze,Cri,0,1,35,M,550576,9861728,597 m,2026-07-29,9:40,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Chimpanze
+165,Nkuba,Cercopithecus hamlyni,Vu,0,2,35,M,550943,9861805,596 m,2026-07-30,10:00,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+171,Nkuba,Cercopithecus denti,Vu,0,8,35,M,552038,9862590,607 m,2026-08-05,11:47,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+177,Nkuba,Cercopithecus hamlyni,Cri,0,1,35,M,550979,9862527,608 m,2026-08-11,13:55,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+184,Nkuba,Riviere,Traverse,0,1,35,M,549731,9862574,569 m,2026-08-18,9:25,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Changomo
+187,Nkuba,Peche,Delly,0,1,35,M,550102,9863623,585 m,2026-08-21,11:08,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+196,Nkuba,Riviere,Observe,A,2,35,M,549212,9862800,578 m,2026-08-30,15:43,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Changomo / Confluance
+1,Nkuba,Riviere,RG,0,1,35,M,573073,9860241,584 m,2026-09-03,8:57,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+2,Nkuba,Riviere,Traverse,0,1,35,M,571552,9858651,577 m,2026-09-04,9:14,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Angese
+3,Nkuba,Riviere,Traverse,0,1,35,M,570890,9858133,581 m,2026-09-05,9:31,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere angese
+4,Nkuba,Riviere,Traverse,0,1,35,M,569944,9857132,598 m,2026-09-06,10:33,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Bibutu
+5,Nkuba,Riviere,Traverse,0,1,35,M,569093,9855858,601 m,2026-09-07,10:59,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere bidutu 
+6,Nkuba,Riviere,Traverse,0,1,35,M,567582,9853883,608 m,2026-09-08,12:59,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+7,Nkuba,Naja melanogaster,Vu,0,1,35,M,567322,9854059,612 m,2026-09-09,13:25,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+12,Nkuba,Riviere,Traverse,0,1,35,M,565912,9856986,589 m,2026-09-13,10:28,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Metete
+13,Nkuba,Riviere,Traverse,0,1,35,M,565690,9857131,592 m,2026-09-14,10:36,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Kankula
+15,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,565081,9857590,607 m,2026-09-16,10:59,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+16,Nkuba,Cercopithecus denti,Vu,0,16,35,M,564881,9857756,595 m,2026-09-17,11:09,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+17,Nkuba,Cercopithecus hamlyni,Cri,0,1,35,M,564768,9857800,603 m,2026-09-18,11:20,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+18,Nkuba,Chimpanze,Cri,0,1,35,M,564657,9857873,619 m,2026-09-19,11:31,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+25,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,563572,9857628,626 m,2026-09-26,12:49,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+34,Nkuba,Riviere,Traverse,0,1,35,M,565661,9856446,597 m,2026-10-05,15:08,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Metete
+38,Nkuba,Riviere,Traverse,0,1,35,M,565944,9856080,592 m,2026-10-09,10:00,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Metete
+41,Nkuba,Pangolin geant,Trace,1,1,35,M,565211,9855754,604 m,2026-10-12,10:32,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+43,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,564366,9855618,618 m,2026-10-14,11:11,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+46,Nkuba,Riviere,Traverse,0,1,35,M,563627,9855541,601 m,2026-10-17,11:41,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Amaimande
+48,Nkuba,Riviere,Traverse,0,1,35,M,563623,9855170,607 m,2026-10-19,12:06,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Amaimande
+49,Nkuba,Varan,Vu,0,1,35,M,563670,9855020,613 m,2026-10-20,12:14,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+50,Nkuba,Riviere,Traverse,0,1,35,M,563666,9854907,611 m,2026-10-21,12:18,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Amaimande
+52,Nkuba,Orycterope,Trace,0,1,35,M,563899,9854563,616 m,2026-10-23,12:41,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+53,Nkuba,Cercopithecus denti,Cri,0,1,35,M,564196,9854530,632 m,2026-10-24,13:17,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+55,Nkuba,Chimpanze,Nid,3,5,35,M,564627,9854810,622 m,2026-10-26,13:41,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+56,Nkuba,Cercopithecus hamlyni,Cri,0,1,35,M,565223,9855360,607 m,2026-10-27,14:33,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+59,Nkuba,Riviere,Traverse,0,1,35,M,565761,9855646,604 m,2026-10-30,15:11,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Metete
+60,Nkuba,Naja melanogaster,Vu,0,1,35,M,566014,9855945,604 m,2026-10-31,15:29,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+63,Nkuba,Cercopithecus denti,Cri,0,1,35,M,566342,9855963,590 m,2026-11-03,8:53,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+65,Nkuba,Cercopithecus mitis,Vu,0,5,35,M,566330,9855593,587 m,2026-11-05,9:08,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+68,Nkuba,Pangolin geant,Trace,1,1,35,M,566102,9854946,593 m,2026-11-08,9:28,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+71,Nkuba,Riviere,Traverse,0,1,35,M,565749,9853752,594 m,2026-11-11,10:10,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Amaimande
+73,Nkuba,Pangolin geant,Trace,2,1,35,M,565573,9853512,599 m,2026-11-13,10:27,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+75,Nkuba,Riviere,Traverse,0,1,35,M,565736,9853416,598 m,2026-11-15,10:46,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Amaimande
+77,Nkuba,Naja melanogaster,Vu,0,1,35,M,566201,9853416,611 m,2026-11-17,11:17,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+78,Nkuba,Cercopithecus hamlyni,Cri,0,1,35,M,566407,9853354,610 m,2026-11-18,11:26,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+80,Nkuba,Riviere,Traverse,0,1,35,M,566607,9853300,604 m,2026-11-20,11:34,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere adjadja
+81,Nkuba,Naja melanogaster,Vu,0,1,35,M,566730,9853593,613 m,2026-11-21,11:49,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+82,Nkuba,Chimpanze,Cri,0,1,35,M,566723,9853807,622 m,2026-11-22,11:56,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+87,Nkuba,Pangolin geant,Trace,1,1,35,M,566485,9855619,616 m,2026-11-27,13:08,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+88,Nkuba,Naja melanogaster,Vu,0,1,35,M,566444,9856008,611 m,2026-11-28,13:20,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+89,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,566437,9856154,612 m,2026-11-29,13:25,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+90,Nkuba,Riviere,Traverse,0,1,35,M,566444,9856554,591 m,2026-11-30,9:35,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+91,Nkuba,Riviere,Traverse,0,1,35,M,566451,9856800,586 m,2026-12-01,9:41,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+92,Nkuba,Riviere,Traverse,0,1,35,M,566554,9857007,586 m,2026-12-02,9:48,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+95,Nkuba,Riviere,Traverse,0,1,35,M,566540,9857340,587 m,2026-12-05,10:02,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere olate
+96,Nkuba,Riviere,Traverse,0,1,35,M,566435,9857691,591 m,2026-12-06,10:12,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere olate
+98,Nkuba,Cercopithecus denti,Cri,0,1,35,M,566489,9858309,595 m,2026-12-08,10:45,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+99,Nkuba,Orycterope,Trou,0,1,35,M,566548,9858560,600 m,2026-12-09,10:56,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+100,Nkuba,Riviere,RG,0,1,35,M,566575,9858632,590 m,2026-12-10,10:59,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+101,Nkuba,Riviere,RG,0,1,35,M,566708,9858561,593 m,2026-12-11,11:07,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+102,Nkuba,Riviere,RG,0,1,35,M,567018,9858405,589 m,2026-12-12,11:16,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+103,Nkuba,Riviere,RG,0,1,35,M,567271,9858272,595 m,2026-12-13,11:23,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+104,Nkuba,Riviere,RG,0,1,35,M,567548,9858194,593 m,2026-12-14,11:31,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+108,Nkuba,Naja melanogaster,Vu,0,1,35,M,567333,9857609,630 m,2026-12-18,12:23,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+109,Nkuba,Pangolin geant,Trace,1,1,35,M,567102,9857231,615 m,2026-12-19,12:41,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+112,Nkuba,Varan,Vu,0,1,35,M,566578,9856428,610 m,2026-12-22,12:32,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+114,Nkuba,Cercopithecus mitis,Cri,0,1,35,M,567026,9856512,620 m,2026-12-24,12:46,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+115,Nkuba,Pangolin geant,Trace,0,1,35,M,567191,9856659,615 m,2026-12-25,12:53,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+116,Nkuba,Orycterope,Trou,1,1,35,M,567442,9856770,616 m,2026-12-26,13:06,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+122,Nkuba,Riviere,Traverse,0,1,35,M,568562,9857678,603 m,2027-01-01,13:48,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Bibutu
+123,Nkuba,Riviere,Chute,A,1,35,M,568560,9857739,602 m,2027-01-02,13:51,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Bibutu
+124,Nkuba,Riviere,RG,0,1,35,M,568720,9857870,596 m,2027-01-03,13:58,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Lowa
+130,Nkuba,Cercopithecus hamlyni,Cri,0,1,35,M,569420,9857202,620 m,2027-01-09,15:14,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+133,Nkuba,Cercopithecus denti,Cri,0,1,35,M,569669,9856720,637 m,2027-01-12,15:42,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+135,Nkuba,Riviere,Traverse,0,1,35,M,569038,9856701,601 m,2027-01-14,15:58,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Bibutu
+136,Nkuba,Riviere,Traverse,0,1,35,M,568892,9856657,600 m,2027-01-15,16:02,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere bibutu 
+139,Nkuba,Pangolin geant,Trace,2,1,35,M,568154,9856425,617 m,2027-01-18,16:19,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+140,Nkuba,Naja melanogaster,Vu,0,1,35,M,567975,9856385,605 m,2027-01-19,16:23,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+144,Nkuba,Riviere,RD,0,1,35,M,566878,9856383,594 m,2027-01-23,16:58,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+145,Nkuba,Riviere,RD,0,1,35,M,566778,9856446,595 m,2027-01-24,17:01,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+146,Nkuba,Riviere,RG,0,1,35,M,566642,9856363,587 m,2027-01-25,17:05,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+147,Nkuba,Riviere,RG,0,1,35,M,566583,9856348,604 m,2027-01-26,11:46,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+148,Nkuba,Riviere,RG,0,1,35,M,566802,9856435,611 m,2027-01-27,11:53,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Olate
+152,Nkuba,Riviere,Traverse,0,1,35,M,567360,9855947,607 m,2027-01-31,12:30,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere olate
+155,Nkuba,Riviere,Traverse,0,1,35,M,567791,9855764,610 m,2027-02-03,12:56,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Affluent dela riviere olate
+156,Nkuba,Cercopithecus denti,Cri,0,1,35,M,568014,9855656,612 m,2027-02-04,13:06,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+158,Nkuba,Position,Observe,0,1,35,M,568353,9855565,638 m,2027-02-06,13:17,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Grand pierre
+4,Obaye,Position,Tente,A,1,35,M,581131,9851872,609 m,2027-02-07,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+5,Obaye,Riviere,Traverse,0,1,35,M,579302,9849582,620 m,2027-02-08,10:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+7,Obaye,Colline,Sommet,0,1,35,M,575747,9846801,824 m,2027-02-10,14:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+8,Obaye,Mine,Piste,A,1,35,M,575343,9845555,648 m,2027-02-11,15:17,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piste likoki
+9,Obaye,Mine,Piste,A,1,35,M,574706,9844922,639 m,2027-02-12,15:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+10,Obaye,Riviere,Traverse,0,1,35,M,574611,9844834,649 m,2027-02-13,16:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Batoko
+11,Obaye,Riviere,Traverse,0,1,35,M,574219,9844328,634 m,2027-02-14,16:29,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+12,Obaye,Riviere,Traverse,0,1,35,M,574167,9844056,631 m,2027-02-15,16:39,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+13,Obaye,Mine,Bivouac,A,5,35,M,574127,9844050,635 m,2027-02-16,8:58,P051,Modelo Lipo Modeste,BOKONYELA,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+14,Obaye,Mine,Piste,A,1,35,M,573676,9843572,641 m,2027-02-17,9:19,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piste ebogoabonge
+18,Obaye,Riviere,Traverse,0,1,35,M,574014,9842300,627 m,2027-02-21,10:43,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+19,Obaye,Riviere,Traverse,0,1,35,M,574079,9841819,629 m,2027-02-22,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+21,Obaye,Riviere,Traverse,0,1,35,M,574027,9841268,627 m,2027-02-24,11:30,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Inconnu
+22,Obaye,Cercopithecus denti,Cri,0,1,35,M,574290,9840977,633 m,2027-02-25,11:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+26,Obaye,Position,Position,0,0,35,M,574998,9839994,644 m,2027-03-01,13:05,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+27,Obaye,Mine,Bivouac,A,5,35,M,575351,9840139,644 m,2027-03-02,13:53,P051,Modelo Lipo Modeste,BOKONYELA,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+28,Obaye,Position,Position,0,0,35,M,575358,9840252,653 m,2027-03-03,8:14,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+33,Obaye,Chimpanze,Cri,0,1,35,M,575351,9841470,633 m,2027-03-08,8:59,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+37,Obaye,Cercopithecus denti,Cri,0,1,35,M,575162,9842814,636 m,2027-03-12,10:05,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+40,Obaye,Riviere,Traverse,0,1,35,M,575437,9843060,623 m,2027-03-15,10:35,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+42,Obaye,Orycterope,Trou,1,1,35,M,576099,9843017,654 m,2027-03-17,10:56,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+44,Obaye,Colline,Sommet,0,1,35,M,576530,9843049,669 m,2027-03-19,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+50,Obaye,Riviere,Traverse,0,1,35,M,576508,9842312,630 m,2027-03-25,12:00,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+55,Obaye,Position,Position,0,0,35,M,575540,9840506,651 m,2027-03-30,13:25,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+56,Obaye,Position,Position,0,0,35,M,575473,9840250,641 m,2027-03-31,8:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+62,Obaye,Position,Tente,A,1,35,M,576056,9840331,609 m,2027-04-06,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+63,Obaye,Mine,Traverse,2,1,35,M,576074,9840256,620 m,2027-04-07,10:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+64,Obaye,Riviere,Traverse,3,1,35,M,576093,9840182,707 m,2027-04-08,13:41,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+68,Obaye,Chimpanze,Traverse,0,1,35,M,576166,9839884,649 m,2027-04-12,16:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Riviere
+78,Obaye,Cercopithecus denti,Trace,1,1,35,M,576351,9839141,631 m,2027-04-22,11:24,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+86,Obaye,Mine,Position,0,1,35,M,576498,9838546,653 m,2027-04-30,8:14,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+87,Obaye,Mine,Trace,0,1,35,M,576517,9838472,658 m,2027-05-01,8:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+89,Obaye,Mine,Trace,0,1,35,M,576554,9838323,640 m,2027-05-03,8:41,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+95,Obaye,Position,Cri,0,1,35,M,576664,9837877,636 m,2027-05-09,10:05,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+96,Obaye,Position,Trace,0,1,35,M,576683,9837803,630 m,2027-05-10,10:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+98,Obaye,Riviere,Traverse,0,1,35,M,576719,9837654,623 m,2027-05-12,10:35,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Riviere
+99,Obaye,Cercopithecus denti,Trace,1,1,35,M,576738,9837580,636 m,2027-05-13,10:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+100,Obaye,Mine,Trou,1,1,35,M,576756,9837505,654 m,2027-05-14,10:56,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+102,Obaye,Colline,Sommet,1,1,35,M,576793,9837357,669 m,2027-05-16,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+113,Obaye,Position,Position,0,1,35,M,576996,9836539,651 m,2027-05-27,13:25,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Position
+114,Obaye,Pangolin geant,Trace,1,1,35,M,577014,9836465,641 m,2027-05-28,8:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Position
+115,Obaye,Position,Trace,1,1,35,M,577033,9836390,648 m,2027-05-29,8:51,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+116,Obaye,Position,Trace,1,1,35,M,577051,9836316,654 m,2027-05-30,8:57,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+117,Obaye,Position,Trace,1,1,35,M,577070,9836242,646 m,2027-05-31,9:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+118,Obaye,Position,Trace,1,1,35,M,577088,9836167,632 m,2027-06-01,9:33,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+120,Obaye,Riviere,Traverse,A,1,35,M,577125,9836019,609 m,2027-06-03,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+121,Obaye,Riviere,Traverse,0,1,35,M,577143,9835944,620 m,2027-06-04,10:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+123,Obaye,Colline,Sommet,0,1,35,M,577180,9835795,824 m,2027-06-06,14:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+125,Obaye,Mine,Piste,A,1,35,M,577217,9835647,639 m,2027-06-08,15:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+126,Obaye,Riviere,Traverse,0,1,35,M,577236,9835572,649 m,2027-06-09,16:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+127,Obaye,Riviere,Traverse,0,1,35,M,577254,9835498,634 m,2027-06-10,16:29,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+128,Obaye,Riviere,Traverse,0,1,35,M,577272,9835424,631 m,2027-06-11,16:39,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+136,Obaye,Mine,Trace,1,1,35,M,577420,9834829,631 m,2027-06-19,11:24,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+148,Obaye,Riviere,Traverse,1,1,35,M,577641,9833937,641 m,2027-07-01,8:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+156,Obaye,Riviere,Traverse,0,1,35,M,577789,9833342,623 m,2027-07-09,10:35,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+157,Obaye,Riviere,Traverse,2,1,35,M,577807,9833268,636 m,2027-07-10,10:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+158,Obaye,Mine,Trou,2,1,35,M,577825,9833193,654 m,2027-07-11,10:56,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+160,Obaye,Colline,Sommet,0,1,35,M,577862,9833045,669 m,2027-07-13,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+161,Obaye,Position,Position,2,1,35,M,577881,9832970,640 m,2027-07-14,11:18,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+162,Obaye,Position,Position,2,1,35,M,577899,9832896,650 m,2027-07-15,11:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+165,Obaye,Riviere,Traverse,2,1,35,M,577954,9832673,636 m,2027-07-18,11:55,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+166,Obaye,Riviere,Traverse,0,1,35,M,577973,9832599,630 m,2027-07-19,12:00,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+168,Obaye,Riviere,Traverse,2,1,35,M,578010,9832450,645 m,2027-07-21,12:26,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+171,Obaye,Position,Position,0,1,35,M,578065,9832227,651 m,2027-07-24,13:25,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+178,Obaye,Mine,Tente,0,1,35,M,578194,9831706,609 m,2027-07-31,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+179,Obaye,Riviere,Traverse,6,1,35,M,578212,9831632,620 m,2027-08-01,10:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+181,Obaye,Colline,Sommet,0,1,35,M,578249,9831483,824 m,2027-08-03,14:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+184,Obaye,Riviere,Traverse,0,1,35,M,578305,9831260,649 m,2027-08-06,16:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Batoko
+185,Obaye,Riviere,Traverse,0,1,35,M,578323,9831186,634 m,2027-08-07,16:29,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+186,Obaye,Riviere,Traverse,0,1,35,M,578342,9831112,631 m,2027-08-08,16:39,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+192,Obaye,Riviere,Traverse,0,1,35,M,578452,9830666,627 m,2027-08-14,10:43,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+193,Obaye,Riviere,Traverse,0,1,35,M,578471,9830591,629 m,2027-08-15,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+195,Obaye,Riviere,Traverse,2,1,35,M,578507,9830443,627 m,2027-08-17,11:30,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Inconu
+196,Obaye,Cercopithecus denti,Cri,2,1,35,M,578526,9830368,633 m,2027-08-18,11:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+200,Obaye,Position,Position,0,1,35,M,578600,9830071,644 m,2027-08-22,13:05,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Position
+202,Obaye,Position,Position,0,1,35,M,578636,9829922,653 m,2027-08-24,8:14,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Position
+207,Obaye,Chimpanze,Cri,2,1,35,M,578729,9829550,633 m,2027-08-29,8:59,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+211,Obaye,Cercopithecus denti,Cri,3,1,35,M,578802,9829253,636 m,2027-09-02,10:05,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+216,Obaye,Orycterope,Trou,2,1,35,M,578894,9828881,654 m,2027-09-07,10:56,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+218,Obaye,Colline,Sommet,0,1,35,M,578931,9828733,669 m,2027-09-09,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+224,Obaye,Riviere,Traverse,0,1,35,M,579042,9828287,630 m,2027-09-15,12:00,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+229,Obaye,Position,Position,0,1,35,M,579134,9827915,651 m,2027-09-20,13:25,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Position
+230,Obaye,Position,Position,0,1,35,M,579153,9827841,641 m,2027-09-21,8:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Position
+236,Obaye,Position,Tente,0,0,35,M,579263,9827394,609 m,2027-09-27,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+237,Obaye,Riviere,Traverse,0,0,35,M,579282,9827320,620 m,2027-09-28,10:50,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Obaye
+239,Obaye,Colline,Sommet,0,0,35,M,579318,9827171,824 m,2027-09-30,14:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Utchungu ya mali
+242,Obaye,Riviere,Traverse,0,1,35,M,579374,9826948,649 m,2027-10-03,16:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Batoko
+243,Obaye,Riviere,Traverse,0,1,35,M,579392,9826874,634 m,2027-10-04,16:29,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Banganafe
+244,Obaye,Riviere,Traverse,0,1,35,M,579411,9826800,631 m,2027-10-05,16:39,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+245,Obaye,Position,Bivouac,A,0,35,M,579429,9826725,635 m,2027-10-06,8:58,P051,Modelo Lipo Modeste,BOKONYELA,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Mine
+116,Okwangana,Cercopithecus hamlyni,Vu,0,2,35,M,543543,9861510,578 m,2027-10-07,7:42,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+117,Okwangana,Riviere,Traverse,0,1,35,M,542326,9859621,567 m,2027-10-08,8:27,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Amakandjubu
+118,Okwangana,Cercopithecus denti,Vu,0,3,35,M,541455,9858222,588 m,2027-10-09,9:07,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+120,Okwangana,Chimpanze,Cri,0,1,35,M,541742,9855377,678 m,2027-10-11,11:13,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Chimpanze
+122,Okwangana,Cercopithecus mitis,Vu,0,3,35,M,540600,9852375,632 m,2027-10-13,13:11,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+125,Okwangana,Riviere,Traverse,0,1,35,M,538896,9850384,617 m,2027-10-16,12:53,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Bolowe
+128,Okwangana,Cercopithecus mitis,Vu,0,3,35,M,537660,9853013,605 m,2027-10-19,14:32,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+130,Okwangana,Bongo,Crotte,1,1,35,M,535919,9854762,602 m,2027-10-21,16:00,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+131,Okwangana,Cercopithecus denti,Vu,0,5,35,M,534621,9856222,589 m,2027-10-22,16:58,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+132,Okwangana,Position,Tente,0,2,35,M,534715,9856687,581 m,2027-10-23,17:39,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+133,Okwangana,Cercopithecus denti,Vu,0,6,35,M,534642,9856543,577 m,2027-10-24,8:35,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+134,Okwangana,Chevrotain aquatique,Trace,2,1,35,M,534652,9856026,583 m,2027-10-25,8:46,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+135,Okwangana,Peche,Delly,0,1,35,M,534840,9855929,575 m,2027-10-26,9:08,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Delly
+143,Okwangana,Gorille,Trace,14,1,35,M,534446,9853805,633 m,2027-11-03,11:25,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+146,Okwangana,Bongo,Trace,0,1,35,M,533609,9854450,659 m,2027-11-06,12:20,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+147,Okwangana,Cercopithecus hamlyni,Cri,0,1,35,M,533781,9854850,619 m,2027-11-07,12:37,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+149,Okwangana,Cercopithecus denti,Vu,0,10,35,M,534177,9855857,611 m,2027-11-09,13:13,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+153,Okwangana,Cercopithecus hamlyni,Cri,0,1,35,M,533215,9855293,612 m,2027-11-13,9:39,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+157,Okwangana,Cercopithecus denti,Vu,0,5,35,M,532064,9855792,736 m,2027-11-17,11:13,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+161,Okwangana,Pangolin geant,Trace,1,1,35,M,533759,9856557,624 m,2027-11-21,12:32,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+163,Okwangana,Cercopithecus denti,Vu,0,3,35,M,534393,9856746,577 m,2027-11-23,8:43,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+165,Okwangana,Cercopithecus mitis,Vu,0,4,35,M,533308,9856945,582 m,2027-11-25,9:24,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+168,Okwangana,Riviere,Observe,0,1,35,M,531863,9857352,576 m,2027-11-28,10:28,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Unua / Innonde
+169,Okwangana,Chevrotain aquatique,Crotte,1,1,35,M,532166,9857599,576 m,2027-11-29,10:38,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+170,Okwangana,Cercopithecus denti,Vu,0,5,35,M,532498,9858060,577 m,2027-11-30,10:48,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+176,Okwangana,Cercopithecus denti,Vu,0,3,35,M,535167,9856913,595 m,2027-12-06,10:05,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+178,Okwangana,Pangolin geant,Trace,0,1,35,M,536331,9857857,629 m,2027-12-08,11:08,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+179,Okwangana,Chimpanze,Cri,0,1,35,M,536466,9858119,623 m,2027-12-09,11:31,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+181,Okwangana,Leopard,Crotte,0,1,35,M,537111,9858188,656 m,2027-12-11,12:33,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+182,Okwangana,Cercopithecus hamlyni,Vu,0,3,35,M,537380,9857915,651 m,2027-12-12,12:54,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+185,Okwangana,Cercopithecus mitis,Vu,0,5,35,M,536977,9856721,649 m,2027-12-15,13:54,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+188,Okwangana,Cercopithecus denti,Vu,0,6,35,M,534877,9856604,606 m,2027-12-18,15:01,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+191,Okwangana,Cercopithecus mitis,Vu,0,7,35,M,535398,9858638,623 m,2027-12-21,9:18,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+193,Okwangana,Chimpanze,Nid,2,3,35,M,535465,9859213,636 m,2027-12-23,9:55,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+194,Okwangana,Chimpanze,Nid,2,6,35,M,534947,9859355,617 m,2027-12-24,10:49,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+198,Okwangana,Chimpanze,Cri,0,1,35,M,533955,9858436,615 m,2027-12-28,12:09,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+199,Okwangana,Cercopithecus hamlyni,Vu,0,3,35,M,534077,9857954,596 m,2027-12-29,12:46,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+201,Okwangana,Chevrotain aquatique,Vu,0,1,35,M,534622,9856983,592 m,2027-12-31,13:40,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+204,Okwangana,Cercopithecus denti,Vu,0,6,35,M,536066,9855963,632 m,2028-01-03,12:34,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+212,Okwangana,Chimpanze,Vu,0,3,35,M,535326,9855751,623 m,2028-01-11,15:29,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+217,Okwangana,Cercopithecus denti,Vu,0,4,35,M,536814,9856718,627 m,2028-01-16,8:17,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+221,Okwangana,Mine,Piste,A,1,35,M,539213,9857813,634 m,2028-01-20,10:00,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Piste mekobe
+223,Okwangana,Cercopithecus hamlyni,Vu,0,4,35,M,540048,9857895,647 m,2028-01-22,10:23,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+224,Okwangana,Cercopithecus hamlyni,Cri,0,1,35,M,540248,9857942,658 m,2028-01-23,10:44,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+225,Okwangana,Cercopithecus denti,Cri,0,1,35,M,540698,9858050,625 m,2028-01-24,11:01,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+226,Okwangana,Chimpanze,Vu,0,2,35,M,541232,9858247,620 m,2028-01-25,11:25,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+228,Okwangana,Chimpanze,Trace,0,1,35,M,544600,9862714,582 m,2028-01-27,6:42,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+453,Nkuba,Activite humaine,Piste,A,1,35,M,568357,9836231,619 m,2024-09-08 00:00:00,13:25,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage / Piste misulu
+470,Nkuba,Activite humaine,Piste,A,1,35,M,568185,9837859,630 m,2024-09-25 00:00:00,12:36,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+472,Nkuba,Activite humaine,Bivouac,A,2,35,M,568198,9837937,630 m,2024-09-27 00:00:00,12:40,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+514,Nkuba,Activite humaine,Bivouac,A,2,35,M,564019,9837029,739 m,2024-11-08 00:00:00,9:14,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+542,Nkuba,Activite humaine,Piste,A,1,35,M,563816,9835159,736 m,2024-12-06 00:00:00,10:15,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+547,Nkuba,Activite humaine,Piste,A,1,35,M,563330,9834720,769 m,2024-12-11 00:00:00,11:40,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage / Piste ekenge
+552,Nkuba,Activite humaine,Piste,A,1,35,M,564054,9834303,787 m,2024-12-16 00:00:00,12:27,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+556,Nkuba,Activite humaine,Piste,A,1,35,M,564308,9834839,775 m,2024-12-20 00:00:00,13:15,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+558,Nkuba,Activite humaine,Piste,A,1,35,M,564481,9835452,744 m,2024-12-22 00:00:00,13:42,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+559,Nkuba,Activite humaine,Bivouac,,1,35,M,564369,9835477,742 m,2024-12-23 00:00:00,13:50,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage
+567,Nkuba,Activite humaine,Piste,A,1,35,M,565297,9835952,756 m,2024-12-31 00:00:00,9:56,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage / Piste ekenge
+576,Nkuba,Activite humaine,Piste,A,1,35,M,566505,9835917,645 m,2025-01-09 00:00:00,12:04,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage / Piste ekenge
+579,Nkuba,Activite humaine,Piste,A,1,35,M,569305,9838699,642 m,2025-01-12 00:00:00,14:32,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",,Piegeage / Piste ebogoabonge
+583,Nkuba,Activite humaine,Bivouac,A,2,35,M,570819,9851793,610 m,2025-01-16 00:00:00,11:22,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",Bomolo Kanyama,Piegeage
+584,Nkuba,Activite humaine,Bivouac,A,3,35,M,570692,9852157,611 m,2025-01-17 00:00:00,11:33,P041,"Aluta Yakimu, Victor Mukwaba Alain",,"Fidele Celestin, Niya Alingi, Bobenga Malike",Bayangana Reginali,Piegeage
+1261,Obaye,Activite humaine,Piste,A,1,35,M,577619,9848149,638 m,2025-01-23 00:00:00,12:29,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piste campleine
+1263,Obaye,Cephalophe dorsalis,Crotte,1,1,35,M,574930,9845384,640 m,2025-01-25 00:00:00,14:57,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1265,Obaye,Activite humaine,Bivouac,,2,35,M,573721,9845203,634 m,2025-01-27 00:00:00,15:42,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",Boko,Piegeage
+1266,Obaye,Activite humaine,Traverse,0,1,35,M,573896,9844833,633 m,2025-01-28 00:00:00,9:44,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Boko
+1270,Obaye,Cephalophe dorsalis,Crotte,2,1,35,M,571255,9841056,645 m,2025-02-01 00:00:00,12:06,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1317,Obaye,Activite humaine,Piste,A,1,35,M,568469,9839910,627 m,2025-02-23 00:00:00,11:36,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",, ebogoabonge
+1325,Obaye,Activite humaine,Bivouac,,2,35,M,568586,9838514,619 m,2025-03-03 00:00:00,16:00,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1328,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,568844,9836276,631 m,2025-03-05 00:00:00,8:54,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1332,Obaye,Cephalophe dorsalis,Crotte,1,1,35,M,568978,9834197,653 m,2025-03-09 00:00:00,10:16,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1338,Obaye,Activite humaine,Piste,A,1,35,M,570369,9833540,640 m,2025-03-15 00:00:00,13:07,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1340,Obaye,Activite humaine,Piste,A,1,35,M,571126,9833404,641 m,2025-03-17 00:00:00,13:31,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Surculation humaine
+1344,Obaye,Cephalophe dorsalis,Vu,0,5,35,M,569461,9835003,674 m,2025-03-21 00:00:00,15:20,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1359,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,570673,9838796,689 m,2025-04-05 00:00:00,16:01,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1361,Obaye,Activite humaine,Piste,A,1,35,M,570399,9837716,640 m,2025-04-07 00:00:00,16:47,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1365,Obaye,Activite humaine,Piste,A,1,35,M,568898,9836048,616 m,2025-04-10 00:00:00,8:11,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1368,Obaye,Activite humaine,Bivouac,,1,35,M,569311,9835779,627 m,2025-04-13 00:00:00,8:47,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1372,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,570295,9835531,648 m,2025-04-17 00:00:00,9:42,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1374,Obaye,Activite humaine,Bivouac,,2,35,M,571008,9835238,651 m,2025-04-19 00:00:00,10:17,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1379,Obaye,Activite humaine,Piste,,1,35,M,571984,9834907,698 m,2025-04-24 00:00:00,11:55,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1390,Obaye,Cephalophe dorsalis,Crotte,3,1,35,M,570633,9836593,718 m,2025-05-05 00:00:00,15:14,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1391,Obaye,Cephalophe dorsalis,Crotte,1,1,35,M,570065,9836639,656 m,2025-05-06 00:00:00,15:35,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,
+1394,Obaye,Activite humaine,Bivouac,A,1,35,M,568260,9836173,627 m,2025-05-09 00:00:00,9:06,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piegeage
+1398,Obaye,Activite humaine,Piste,A,1,35,M,565900,9836987,646 m,2025-05-13 00:00:00,10:33,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piste terezamine
+1400,Obaye,Activite humaine,Piste,A,1,35,M,565856,9835976,694 m,2025-05-15 00:00:00,13:01,P049,"Kampundju Karopi, Ngongo Dominique",,"Gaby Emmanuel, Yoweli Alingi, Doris Ntugani",,Piste kyasa
+11,Kasese,Activite humaine,Piste,A,1,35,M,533001,9826001,638 m,2025-09-27 00:00:00,11:07,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Surculation humaine
+13,Kasese,Activite humaine,Bivouac,A,7,35,M,533290,9826001,637 m,2025-09-29 00:00:00,11:28,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",PAKAPAKA,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Instalation humaine
+18,Kasese,Activite humaine,Piste,A,1,35,M,531894,9824529,632 m,2025-10-04 00:00:00,9:16,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Surculation humaine
+23,Kasese,Activite humaine,Piste,A,1,35,M,530802,9823728,631 m,2025-10-09 00:00:00,10:03,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+25,Kasese,Activite humaine,Piste,A,1,35,M,530441,9823511,619 m,2025-10-11 00:00:00,10:17,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Surculation humaine
+28,Kasese,Activite humaine,Piste,A,1,35,M,530171,9824543,623 m,2025-10-14 00:00:00,10:57,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste nyakombia
+29,Kasese,Activite humaine,Piste,A,1,35,M,530637,9824736,628 m,2025-10-15 00:00:00,11:07,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kpoochini
+32,Kasese,Activite humaine,Piste,A,1,35,M,532922,9825860,629 m,2025-10-18 00:00:00,9:49,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+34,Kasese,Activite humaine,Piste,A,1,35,M,532229,9825959,638 m,2025-10-20 00:00:00,10:42,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+43,Kasese,Cephalophe dorsalis,Trace,1,1,35,M,530003,9827503,681 m,2025-10-29 00:00:00,13:30,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+50,Kasese,Cephalophe dorsalis,Trace,1,1,35,M,532261,9827056,669 m,2025-11-05 00:00:00,10:43,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+58,Kasese,Cephalophe dorsalis,Trace,2,1,35,M,530332,9829057,668 m,2025-11-13 00:00:00,13:45,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+62,Kasese,Activite humaine,Piste,A,1,35,M,531929,9828082,685 m,2025-11-17 00:00:00,15:50,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+70,Kasese,Cephalophe dorsalis,Crotte,0,1,35,M,533459,9828922,700 m,2025-11-25 00:00:00,11:53,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+74,Kasese,Activite humaine,Piste,A,1,35,M,534695,9828871,809 m,2025-11-29 00:00:00,13:13,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+78,Kasese,Activite humaine,Piste,A,1,35,M,534295,9826311,651 m,2025-12-03 00:00:00,14:50,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste ngombo
+94,Kasese,Activite humaine,,A,1,35,M,534514,9826055,645 m,2025-12-19 00:00:00,14:33,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste ngombo
+95,Kasese,Activite humaine,RG,0,1,35,M,533802,9826212,638 m,2025-12-20 00:00:00,14:47,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Botondolo
+98,Kasese,Activite humaine,,A,1,35,M,534527,9825983,638 m,2025-12-23 00:00:00,10:50,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste ngombo
+99,Kasese,Cephalophe dorsalis,Trace,1,1,35,M,535353,9825958,651 m,2025-12-24 00:00:00,11:25,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,
+100,Kasese,Activite humaine,Piste,A,1,35,M,535635,9825922,641 m,2025-12-25 00:00:00,11:39,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste bikulu
+110,Kasese,Activite humaine,Piste,A,1,35,M,533593,9825309,624 m,2026-01-04 00:00:00,9:28,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+113,Kasese,Activite humaine,Piste,A,1,35,M,534453,9824387,649 m,2026-01-07 00:00:00,10:33,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste ngombo
+122,Kasese,Activite humaine,Piste,A,1,35,M,535581,9822937,766 m,2026-01-16 00:00:00,13:20,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+125,Kasese,Activite humaine,Piste,A,1,35,M,534462,9823049,712 m,2026-01-19 00:00:00,14:23,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piegeage
+126,Kasese,Activite humaine,Piste,A,1,35,M,533587,9822915,646 m,2026-01-20 00:00:00,14:50,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste ngombo
+131,Kasese,Activite humaine,RD,0,1,35,M,535102,9830062,770 m,2026-01-25 00:00:00,9:30,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Kalomola
+132,Kasese,Activite humaine,Bivouac,A,4,35,M,536662,9831629,803 m,2026-01-26 00:00:00,10:06,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",MAKOMBO,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Instalation humaine
+136,Kasese,Activite humaine,Bivouac,A,5,35,M,541807,9834929,645 m,2026-01-30 00:00:00,12:26,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",LIBUYU,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Instalation humaine
+140,Kasese,Activite humaine,Piste,A,1,35,M,543452,9839516,617 m,2026-02-03 00:00:00,15:30,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste kasoso
+143,Kasese,Activite humaine,Bivouac,A,3,35,M,545271,9840684,611 m,2026-02-06 00:00:00,16:21,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",Gabi,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Instalation humaine
+149,Kasese,Activite humaine,Piste,A,1,35,M,555301,9856280,623 m,2026-02-12 00:00:00,13:30,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste tempresent
+150,Kasese,Activite humaine,Piste,A,1,35,M,557550,9859314,601 m,2026-02-13 00:00:00,14:44,P061,"Raymond Bandjoma Mutoro, Kinyunya Angalikiana Gabriel",,"Andres Shindano, Lodi Yuma, Ramazani Numema",,Piste ungwe
+4,Kasese,Activite humaine,Bivouac,A,1,35,M,527047,9828155,632 m,2026-02-19 00:00:00,14:57,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Instalation humaine
+12,Kasese,Activite humaine,Piste,A,1,35,M,529664,9828789,658 m,2026-02-27 00:00:00,8:33,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Surculation humaine
+22,Kasese,Activite humaine,Piste,A,1,35,M,528891,9825684,613 m,2026-03-09 00:00:00,9:59,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Surculation humaine
+23,Kasese,Activite humaine,Bivouac,,1,35,M,528676,9825541,621 m,2026-03-10 00:00:00,10:29,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Piegeage
+32,Kasese,Activite humaine,Piste,A,1,35,M,526839,9825649,641 m,2026-03-19 00:00:00,12:47,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Surculation humaine
+35,Kasese,Cephalophe dorsalis,Crotte,1,1,35,M,527000,9826500,655 m,2026-03-22 00:00:00,13:27,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+49,Kasese,Activite humaine,Piste,A,1,35,M,527341,9827947,645 m,2026-04-05 00:00:00,11:24,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Piste nyakombia
+65,Kasese,Cephalophe dorsalis,Crotte,1,1,35,M,526999,9829500,698 m,2026-04-21 00:00:00,13:48,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+79,Kasese,Activite humaine,Piste,,1,35,M,527490,9830969,868 m,2026-05-01 00:00:00,11:47,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Piegeage
+86,Kasese,Activite humaine,Piste,A,1,35,M,529696,9830047,651 m,2026-05-08 00:00:00,9:15,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Surculation humaine
+93,Kasese,Cephalophe dorsalis,Trace,0,1,35,M,531499,9830999,781 m,2026-05-15 00:00:00,11:46,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+96,Kasese,Activite humaine,Piste,A,1,35,M,529900,9829138,665 m,2026-05-18 00:00:00,13:57,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,Surculation humaine
+101,Kasese,Cephalophe dorsalis,Crotte,1,1,35,M,532485,9830836,793 m,2026-05-23 00:00:00,10:12,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+114,Kasese,Cephalophe dorsalis,Trace,1,1,35,M,531860,9827652,651 m,2026-06-05 00:00:00,13:59,P063,Kukwanabo Ngengele,,"Lipanda Kekombo, Motoya Bandjoma, Mbula Maseme",,
+139,Nkuba,Cephalophe dorsalis,Trace,0,1,35,M,551494,9863635,605 m,2026-07-04 00:00:00,11:56,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+140,Nkuba,Activite humaine,Nylon,A,5,35,M,551377,9863546,606 m,2026-07-05 00:00:00,12:00,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+142,Nkuba,Activite humaine,Nylon,A,2,35,M,550068,9862112,588 m,2026-07-07 00:00:00,13:31,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+143,Nkuba,Cephalophe dorsalis,Crotte,1,1,35,M,549650,9861609,591 m,2026-07-08 00:00:00,8:22,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+144,Nkuba,Activite humaine,Nylon,A,3,35,M,549940,9861420,581 m,2026-07-09 00:00:00,8:36,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+146,Nkuba,Activite humaine,Nylon,A,4,35,M,550619,9860941,586 m,2026-07-11 00:00:00,9:13,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+147,Nkuba,Activite humaine,Piste,A,1,35,M,550747,9860670,592 m,2026-07-12 00:00:00,9:31,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Surculation humaine
+149,Nkuba,Activite humaine,Tente,A,1,35,M,550881,9859863,582 m,2026-07-14 00:00:00,10:01,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Surculation humaine
+152,Nkuba,Activite humaine,Nylon,A,5,35,M,551888,9860420,613 m,2026-07-17 00:00:00,12:30,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+155,Nkuba,Cephalophe dorsalis,Trace,2,1,35,M,551617,9860987,609 m,2026-07-20 00:00:00,14:17,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+159,Nkuba,Cephalophe dorsalis,Trace,2,1,35,M,550307,9861476,583 m,2026-07-24 00:00:00,15:27,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+170,Nkuba,Cephalophe dorsalis,Vu,0,1,35,M,551991,9862287,608 m,2026-08-04 00:00:00,11:31,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+173,Nkuba,Cephalophe dorsalis,Crotte,1,1,35,M,551845,9862845,615 m,2026-08-07 00:00:00,12:54,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+176,Nkuba,Cephalophe dorsalis,Crotte,2,1,35,M,551274,9862605,600 m,2026-08-10 00:00:00,13:37,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+179,Nkuba,Activite humaine,Nylon,A,3,35,M,550593,9862361,605 m,2026-08-13 00:00:00,14:55,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+181,Nkuba,Activite humaine,Nylon,A,2,35,M,549491,9861953,582 m,2026-08-15 00:00:00,8:43,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+182,Nkuba,Activite humaine,Nylon,A,3,35,M,549598,9862323,576 m,2026-08-16 00:00:00,9:09,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+183,Nkuba,Activite humaine,Nylon,A,1,35,M,549675,9862456,574 m,2026-08-17 00:00:00,9:20,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+186,Nkuba,Cephalophe dorsalis,Crotte,1,1,35,M,550094,9863316,584 m,2026-08-20 00:00:00,10:39,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+188,Nkuba,Activite humaine,Nylon,A,3,35,M,550065,9863823,598 m,2026-08-22 00:00:00,11:20,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,Piegeage
+189,Nkuba,Activite humaine,Piste,A,1,35,M,549944,9864083,614 m,2026-08-23 00:00:00,12:51,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+194,Nkuba,Cephalophe dorsalis,Vu,0,1,35,M,549294,9863420,589 m,2026-08-28 00:00:00,15:04,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+195,Nkuba,Activite humaine,Piste,A,1,35,M,549212,9863220,585 m,2026-08-29 00:00:00,15:11,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+197,Nkuba,Activite humaine,Nylon,A,3,35,M,549394,9862441,586 m,2026-08-31 00:00:00,16:04,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+198,Nkuba,Activite humaine,Nylon,A,4,35,M,549389,9862273,594 m,2026-09-01 00:00:00,16:13,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+199,Nkuba,Activite humaine,Nylon,A,3,35,M,549438,9861946,589 m,2026-09-02 00:00:00,16:29,P079,"Bungabule Ramazani, Sebakare Symphorien",,"Lecki Kukwa, Ulumbo Kubukwasi, Mapoli Azimeli",,
+19,Nkuba,Activite humaine,Piste,,1,35,M,564589,9857899,621 m,2026-09-20 00:00:00,11:35,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+30,Nkuba,Activite humaine,Piste,,1,35,M,564107,9857077,624 m,2026-10-01 00:00:00,13:29,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+33,Nkuba,Cephalophe dorsalis,Vu,0,1,35,M,565323,9856503,603 m,2026-10-04 00:00:00,14:52,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+37,Nkuba,Activite humaine,Piste,,1,35,M,566046,9856168,595 m,2026-10-08 00:00:00,9:55,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+54,Nkuba,Cephalophe dorsalis,Trace,1,1,35,M,564399,9854663,627 m,2026-10-25 00:00:00,13:28,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+67,Nkuba,Cephalophe dorsalis,Trace,1,1,35,M,566217,9855187,598 m,2026-11-07 00:00:00,9:23,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+74,Nkuba,Cephalophe dorsalis,Vu,0,1,35,M,565701,9853434,602 m,2026-11-14 00:00:00,10:43,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+93,Nkuba,Activite humaine,Nylon,A,5,35,M,566544,9857031,587 m,2026-12-03 00:00:00,9:52,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+94,Nkuba,Activite humaine,Bivouac,A,2,35,M,566497,9857235,591 m,2026-12-04 00:00:00,9:59,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+105,Nkuba,Activite humaine,Bivouac,,1,35,M,567677,9858122,594 m,2026-12-15 00:00:00,11:36,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+106,Nkuba,Activite humaine,Nylon,A,1,35,M,567745,9858030,604 m,2026-12-16 00:00:00,12:00,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+120,Nkuba,Activite humaine,Nylon,A,1,35,M,568240,9857460,608 m,2026-12-30 00:00:00,13:37,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+121,Nkuba,Activite humaine,Piste,,1,35,M,568521,9857631,608 m,2026-12-31 00:00:00,13:45,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+127,Nkuba,Activite humaine,Piste,A,1,35,M,569098,9857545,597 m,2027-01-06 00:00:00,14:33,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+128,Nkuba,Activite humaine,Piste,A,1,35,M,569125,9857516,597 m,2027-01-07 00:00:00,14:34,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+129,Nkuba,Activite humaine,Nylon,A,2,35,M,569273,9857384,608 m,2027-01-08 00:00:00,15:06,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+137,Nkuba,Cephalophe dorsalis,Crotte,0,1,35,M,568646,9856544,607 m,2027-01-16 00:00:00,16:09,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,
+142,Nkuba,Activite humaine,Piste,A,1,35,M,567448,9856338,597 m,2027-01-21 00:00:00,16:37,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+150,Nkuba,Activite humaine,Piste,,1,35,M,567030,9856056,614 m,2027-01-29 00:00:00,12:13,P039,"Assani Bazin, Ngengele Yoane",,"Ignace Konga, Augustin Maliaseme, Ramazani Afandja",,Piegeage
+15,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,573901,9842946,633 m,2027-02-18 00:00:00,9:53,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+23,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,574519,9840641,637 m,2027-02-26 00:00:00,12:20,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+24,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,574633,9840540,638 m,2027-02-27 00:00:00,12:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+29,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,575369,9840439,658 m,2027-03-04 00:00:00,8:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+35,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,575293,9842104,630 m,2027-03-10 00:00:00,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+39,Obaye,Activite humaine,Piste,A,1,35,M,575373,9843073,626 m,2027-03-14 00:00:00,10:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piegeage
+41,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,575776,9843035,636 m,2027-03-16 00:00:00,10:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+49,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,576548,9842389,636 m,2027-03-24 00:00:00,11:55,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+53,Obaye,Cephalophe dorsalis,Crotte,2,1,35,M,575904,9841427,646 m,2027-03-28 00:00:00,12:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+54,Obaye,Activite humaine,Nylon,A,1,35,M,575656,9841053,639 m,2027-03-29 00:00:00,13:06,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piegeage
+57,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,575583,9840362,648 m,2027-04-01 00:00:00,8:51,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+60,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,576472,9841057,632 m,2027-04-04 00:00:00,9:33,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+61,Obaye,Activite humaine,Nylon,A,2,35,M,576562,9841096,630 m,2027-04-05 00:00:00,9:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piegeage
+65,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,576111,9840107,824 m,2027-04-09 00:00:00,14:16,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+66,Obaye,Activite humaine,Piste,A,1,35,M,576130,9840033,648 m,2027-04-10 00:00:00,15:17,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Likoki
+74,Obaye,Activite humaine,Vu,1,1,35,M,576277,9839438,632 m,2027-04-18 00:00:00,10:01,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piegeage
+75,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,576296,9839364,633 m,2027-04-19 00:00:00,10:17,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+81,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,576406,9838918,637 m,2027-04-25 00:00:00,12:20,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+82,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,576425,9838844,638 m,2027-04-26 00:00:00,12:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+90,Obaye,Activite humaine,Nylon,0,1,35,M,576572,9838249,641 m,2027-05-04 00:00:00,8:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piegeage
+92,Obaye,Cephalophe dorsalis,Trace,0,1,35,M,576609,9838100,636 m,2027-05-06 00:00:00,9:15,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+94,Obaye,Cephalophe dorsalis,Trace,0,1,35,M,576646,9837951,628 m,2027-05-08 00:00:00,9:40,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+104,Obaye,Cephalophe dorsalis,Crotte,1,1,35,M,576830,9837208,650 m,2027-05-18 00:00:00,11:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+108,Obaye,Cephalophe dorsalis,Trace,0,1,35,M,576904,9836911,630 m,2027-05-22 00:00:00,12:00,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Riviere
+111,Obaye,Cephalophe dorsalis,Crotte,2,1,35,M,576959,9836688,646 m,2027-05-25 00:00:00,12:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+124,Obaye,Activite humaine,Piste,A,1,35,M,577199,9835721,648 m,2027-06-07 00:00:00,15:17,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+129,Obaye,Activite humaine,Bivouac,A,1,35,M,577291,9835349,635 m,2027-06-12 00:00:00,8:58,P051,Modelo Lipo Modeste,BOKONYELA,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+135,Obaye,Cephalophe dorsalis,Traverse,0,1,35,M,577401,9834903,629 m,2027-06-18 00:00:00,11:11,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Bokonyela
+145,Obaye,Cephalophe dorsalis,Trace,0,1,35,M,577586,9834160,658 m,2027-06-28 00:00:00,8:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+146,Obaye,Cephalophe dorsalis,Crotte,0,1,35,M,577604,9834086,646 m,2027-06-29 00:00:00,8:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+149,Obaye,Cephalophe dorsalis,Cri,1,1,35,M,577660,9833862,633 m,2027-07-02 00:00:00,8:59,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+155,Obaye,Activite humaine,Piste,A,1,35,M,577770,9833416,626 m,2027-07-08 00:00:00,10:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+159,Obaye,Cephalophe dorsalis,Crotte,2,1,35,M,577844,9833119,644 m,2027-07-12 00:00:00,11:04,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+164,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,577936,9832747,643 m,2027-07-17 00:00:00,11:45,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+174,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,578120,9832004,654 m,2027-07-27 00:00:00,8:57,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+176,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,578157,9831855,632 m,2027-07-29 00:00:00,9:33,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+177,Obaye,Activite humaine,Nylon,A,1,35,M,578176,9831781,630 m,2027-07-30 00:00:00,9:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+183,Obaye,Activite humaine,Piste,A,1,35,M,578286,9831335,639 m,2027-08-05 00:00:00,15:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Ikobolo
+188,Obaye,Cephalophe dorsalis,Crotte,0,1,35,M,578378,9830963,641 m,2027-08-10 00:00:00,9:19,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Mine
+189,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,578397,9830889,633 m,2027-08-11 00:00:00,9:53,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+197,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,578544,9830294,637 m,2027-08-19 00:00:00,12:20,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+198,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,578563,9830220,638 m,2027-08-20 00:00:00,12:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+201,Obaye,Activite humaine,Bivouac,A,1,35,M,578618,9829997,644 m,2027-08-23 00:00:00,13:53,P051,Modelo Lipo Modeste,BOKONYELA,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Mine
+203,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,578655,9829848,658 m,2027-08-25 00:00:00,8:23,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+209,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,578765,9829402,630 m,2027-08-31 00:00:00,9:28,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+213,Obaye,Cephalophe dorsalis,Crotte,0,1,35,M,578839,9829104,626 m,2027-09-04 00:00:00,10:31,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Piegeage
+215,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,578876,9828956,636 m,2027-09-06 00:00:00,10:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+223,Obaye,Cephalophe dorsalis,Trace,2,1,35,M,579024,9828361,636 m,2027-09-14 00:00:00,11:55,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+227,Obaye,Cephalophe dorsalis,Crotte,3,1,35,M,579097,9828064,646 m,2027-09-18 00:00:00,12:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+231,Obaye,Cephalophe dorsalis,Trace,1,1,35,M,579171,9827766,648 m,2027-09-22 00:00:00,8:51,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+234,Obaye,Cephalophe dorsalis,Trace,1,0,35,M,579226,9827543,632 m,2027-09-25 00:00:00,9:33,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+235,Obaye,Activite humaine,Nylon,A,0,35,M,579245,9827469,630 m,2027-09-26 00:00:00,9:46,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,
+240,Obaye,Activite humaine,Piste,A,0,35,M,579337,9827097,648 m,2027-10-01 00:00:00,15:17,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Mine
+241,Obaye,Activite humaine,Piste,A,0,35,M,579355,9827023,639 m,2027-10-02 00:00:00,15:38,P051,Modelo Lipo Modeste,,"Joseph Frederick, Mbango Abegendo, Zaiko Kody",,Mine
+121,Okwangana,Cephalophe dorsalis,Trace,1,1,35,M,541796,9854070,684 m,2027-10-12 00:00:00,12:07,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+124,Okwangana,Activite humaine,Bivouac,A,3,35,M,539135,9850506,615 m,2027-10-15 00:00:00,14:05,P091,"Assangwa Kadiga, Mussa Yabili",BOLOWE,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Piegeage
+136,Okwangana,Cephalophe dorsalis,Trace,2,1,35,M,534923,9855632,578 m,2027-10-27 00:00:00,9:20,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+141,Okwangana,Cephalophe dorsalis,Trace,2,1,35,M,534811,9853807,608 m,2027-11-01 00:00:00,10:38,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+154,Okwangana,Cephalophe dorsalis,Trace,1,1,35,M,532624,9854618,766 m,2027-11-14 00:00:00,10:21,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+160,Okwangana,Cephalophe dorsalis,Crotte,1,1,35,M,532806,9856336,609 m,2027-11-20 00:00:00,11:57,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+171,Okwangana,Cephalophe dorsalis,Trace,1,1,35,M,532618,9858296,578 m,2027-12-01 00:00:00,10:55,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+184,Okwangana,Cephalophe dorsalis,Trace,2,1,35,M,537498,9856841,623 m,2027-12-14 00:00:00,13:35,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+205,Okwangana,Cephalophe dorsalis,Crotte,2,1,35,M,536917,9855712,636 m,2028-01-04 00:00:00,13:02,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,
+216,Okwangana,Activite humaine,Bivouac,,1,35,M,536012,9856914,578 m,2028-01-15 00:00:00,7:57,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,Piegeage
+220,Okwangana,Cephalophe dorsalis,Trace,3,1,35,M,538634,9857745,669 m,2028-01-19 00:00:00,9:38,P091,"Assangwa Kadiga, Mussa Yabili",,"Sadjo Aluta, Christian Adelard, Mussa Ramazani",,

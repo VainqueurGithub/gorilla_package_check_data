@@ -8,7 +8,7 @@ import numpy as np
 import os
 
 
-def create_engine(database,user,password,host,port):
+def tr_create_engine(database,user,password,host,port):
     try:
         # Attempt to connect to the database
         engine = create_engine('postgresql+psycopg2://'+user+':'+password+'@'+host+':'+port+'/'+database)
@@ -24,7 +24,7 @@ def create_engine(database,user,password,host,port):
         # Optional: retry logic or prompt for a new password here
         return None
 
-def connect_to_db(database,user,password,host,port):
+def tr_connect_to_db(database,user,password,host,port):
     try:
         # Attempt to connect to the database
         connection = psycopg2.connect(
@@ -113,7 +113,7 @@ def tr_retrieve_data_psql(database,user,password,host,port):
     '''This function connect python to psql and retrieve data from psql'''
     #establishing the connection
     try:
-        conn = connect_to_db(database=database, user=user, password=password, host=host, port=port)
+        conn = tr_connect_to_db(database=database, user=user, password=password, host=host, port=port)
         #Setting auto commit false
         conn.autocommit = True
         #Creating a cursor object using the cursor() method
@@ -250,7 +250,7 @@ def tr_checking_data_integrity(source_raw,source_checked,df_espece,df_signe,df_n
 
 def tr_data_downloading_psql(source_checked, user,password,host,port,database):
     
-    engine = create_engine(database,user,password,host,port)
+    engine = tr_create_engine(database,user,password,host,port)
 
     try:
         data_success = pd.read_csv(source_checked+'/data_success_pistage.csv', encoding = 'latin1')
